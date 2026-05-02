@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NSE Heatmap Dashboard</title>
+  <style>
+    body {
+      background: #0d1117;
+      color: white;
+      font-family: Arial;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+    .box {
+      padding: 15px;
+      border-radius: 10px;
+      background: #161b22;
+      width: 48%;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    td, th {
+      padding: 8px;
+      text-align: center;
+    }
+
+    .yes {
+      background: green;
+    }
+
+    .no {
+      background: red;
+    }
+
+    .heatmap {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .sector {
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>NSE Market Dashboard</h1>
+
+<div class="top">
+  <div class="box">
+    <h3>Top Sector</h3>
+    <div id="topSector"></div>
+  </div>
+  <div class="box">
+    <h3>Strength</h3>
+    <div id="topStrength"></div>
+  </div>
+</div>
+
+<div class="heatmap" id="heatmap"></div>
+
+<table id="table"></table>
+
+<script>
+
+const url = "https://raw.githubusercontent.com/harishdsc/HaKa/main/output.csv";
+
+fetch(url)
+.then(res => res.text())
+.then(data => {
+
+    let rows = data.split("\n").slice(1);
+    let sectors = {};
+    let tableHTML = "<tr><th>Symbol</th><th>Sector</th><th>D</th><th>W</th><th>M</th></tr>";
+
+    rows.forEach(r => {
+        let [sym, sec, d, w, m] = r.split(",");
+        if(!sym) return;
+
+        // Table
+        tableHTML += `
+        <tr>
+          <td>${sym}</td>
+          <td>${sec}</td>
+          <td class="${d=='YES'?'yes':'no'}">${d}</td>
+          <td class="${w=='YES'?'yes':'no'}">${w}</td>
+          <td class="${m=='YES'?'yes':'no'}">${m}</td>
+        </tr>`;
+
+        // Sector calc
+        if(!sectors[sec]) sectors[sec] = {total:0, pass:0};
+        sectors[sec].total++;
+        if(d=="YES") sectors[sec].pass++;
+    });
+
+    document.getElementById("table").innerHTML = tableHTML;
+
+    // Heatmap
+    let heatHTML = "";
+    let topSec = "";
+    let topVal = 0;
+
+    for(let s in sectors){
+        let strength = sectors[s].pass / sectors[s].total;
+        let color = `rgba(0,255,0,${strength})`;
+
+        heatHTML += `<div class="sector" style="background:${color}">
+        ${s}<br>${(strength*100).toFixed(1)}%
+        </div>`;
+
+        if(strength > topVal){
+            topVal = strength;
+            topSec = s;
+        }
+    }
+
+    document.getElementById("heatmap").innerHTML = heatHTML;
+    document.getElementById("topSector").innerHTML = topSec;
+    document.getElementById("topStrength").innerHTML = (topVal*100).toFixed(1)+"%";
+
+});
+
+</script>
+
+</body>
+</html>
