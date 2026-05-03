@@ -1,4 +1,2862 @@
 Symbol,Sector,Daily,Weekly,Monthly
-RELIANCE.NS,Energy,NO,NO,NO
-INFY.NS,IT,NO,NO,NO
-HDFCBANK.NS,Bank,NO,NO,NO
+20MICRONS.NS,Minerals & Mining,NO,NO,NO
+21STCENMGM.NS,Capital Markets,NO,NO,NO
+360ONE.NS,Capital Markets,NO,NO,NO
+3IINFOLTD.NS,IT - Software,NO,NO,NO
+3MINDIA.NS,Diversified,NO,NO,NO
+3PLAND.NS,Finance,NO,NO,NO
+5PAISA.NS,Capital Markets,NO,NO,NO
+63MOONS.NS,IT - Software,NO,NO,NO
+A2ZINFRA.NS,Construction,NO,NO,NO
+AAATECH.NS,Commercial Services & Supplies,NO,NO,NO
+AADHARHFC.NS,Finance,NO,NO,NO
+AAKAAR.NS,Personal Products,NO,NO,NO
+AAKASH.NS,Oil,NO,NO,NO
+AARADHYA.NS,"Paper, Forest & Jute Products",NO,NO,NO
+AAREYDRUGS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AARNAV.NS,Textiles & Apparels,NO,NO,NO
+AARON.NS,Industrial Manufacturing,NO,NO,NO
+AARTECH.NS,Electrical Equipment,NO,NO,NO
+AARTIDRUGS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AARTIIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+AARTIPHARM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AARTISURF.NS,Chemicals & Petrochemicals,NO,NO,NO
+AARVI.NS,Commercial Services & Supplies,NO,NO,NO
+AATMAJ.NS,Healthcare Services,NO,NO,NO
+AAVAS.NS,Finance,NO,NO,NO
+ABAN.NS,Oil,NO,NO,NO
+ABB.NS,Electrical Equipment,NO,NO,NO
+ABBOTINDIA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ABCAPITAL.NS,Finance,NO,NO,NO
+ABCOTS.NS,Textiles & Apparels,NO,NO,NO
+ABDL.NS,Beverages,NO,NO,NO
+ABFRL.NS,Retailing,NO,NO,NO
+ABHAPOWER.NS,Industrial Products,NO,NO,NO
+ABINFRA.NS,Construction,NO,NO,NO
+ABLBL.NS,Retailing,NO,NO,NO
+ABMINTLLTD.NS,Commercial Services & Supplies,NO,NO,NO
+ABREL.NS,"Paper, Forest & Jute Products",NO,NO,NO
+ABSLAMC.NS,Capital Markets,NO,NO,NO
+ABSMARINE.NS,Transport Services,NO,NO,NO
+ACC.NS,Cement & Cement Products,NO,NO,NO
+ACCELYA.NS,IT - Software,NO,NO,NO
+ACCENTMIC.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ACCORD.NS,Telecom - Services,NO,NO,NO
+ACCPL.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ACCURACY.NS,Transport Services,NO,NO,NO
+ACE.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+ACEINTEG.NS,Commercial Services & Supplies,NO,NO,NO
+ACETEC.NS,Retailing,NO,NO,NO
+ACI.NS,Chemicals & Petrochemicals,NO,NO,NO
+ACL.NS,Cement & Cement Products,NO,NO,NO
+ACMESOLAR.NS,Power,NO,NO,NO
+ACTIVEINFR.NS,Realty,NO,NO,NO
+ACUTAAS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ADANIENSOL.NS,Power,NO,NO,NO
+ADANIENT.NS,Metals & Minerals Trading,NO,NO,NO
+ADANIGREEN.NS,Power,NO,NO,NO
+ADANIPORTS.NS,Transport Infrastructure,NO,NO,NO
+ADANIPOWER.NS,Power,NO,NO,NO
+ADDICTIVE.NS,Other Consumer Services,NO,NO,NO
+ADFFOODS.NS,Food Products,NO,NO,NO
+ADL.NS,Consumer Durables,NO,NO,NO
+ADOR.NS,Industrial Products,NO,NO,NO
+ADROITINFO.NS,IT - Services,NO,NO,NO
+ADSL.NS,IT - Services,NO,NO,NO
+ADVAIT.NS,Industrial Products,NO,NO,NO
+ADVANCE.NS,Fertilizers & Agrochemicals,NO,NO,NO
+ADVANIHOTR.NS,Leisure Services,NO,NO,NO
+ADVENTHTL.NS,Leisure Services,NO,NO,NO
+ADVENZYMES.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AEGISLOG.NS,Gas,NO,NO,NO
+AEGISVOPAK.NS,Oil,NO,NO,NO
+AEPL.NS,Electrical Equipment,NO,NO,NO
+AEQUS.NS,Aerospace & Defense,NO,NO,NO
+AEROENTER.NS,Industrial Products,NO,NO,NO
+AEROFLEX.NS,Industrial Products,NO,NO,NO
+AERON.NS,Industrial Products,NO,NO,NO
+AERONEU.NS,Industrial Products,NO,NO,NO
+AESTHETIK.NS,Construction,NO,NO,NO
+AETHER.NS,Chemicals & Petrochemicals,NO,NO,NO
+AFCONS.NS,Construction,NO,NO,NO
+AFFLE.NS,IT - Services,NO,NO,NO
+AFFORDABLE.NS,Industrial Manufacturing,NO,NO,NO
+AFIL.NS,Finance,NO,NO,NO
+AFSL.NS,Finance,NO,NO,NO
+AGARIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+AGARWALEYE.NS,Healthcare Services,NO,NO,NO
+AGARWALFT.NS,Industrial Products,NO,NO,NO
+AGARWALTUF.NS,Industrial Products,NO,NO,NO
+AGI.NS,Industrial Products,NO,NO,NO
+AGIIL.NS,Realty,NO,NO,NO
+AGNI.NS,Construction,NO,NO,NO
+AGRITECH.NS,Agricultural Food & other Products,NO,NO,NO
+AGROPHOS.NS,Fertilizers & Agrochemicals,NO,NO,NO
+AGSTRA.NS,Financial Technology (Fintech),NO,NO,NO
+AGUL.NS,Industrial Products,NO,NO,NO
+AHCL.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AHIMSA.NS,Industrial Products,NO,NO,NO
+AHLADA.NS,Consumer Durables,NO,NO,NO
+AHLEAST.NS,Leisure Services,NO,NO,NO
+AHLUCONT.NS,Construction,NO,NO,NO
+AHLWEST.NS,Leisure Services,NO,NO,NO
+AIAENG.NS,Industrial Products,NO,NO,NO
+AIIL.NS,Finance,NO,NO,NO
+AILIMITED.NS,Construction,NO,NO,NO
+AIMTRON.NS,Industrial Manufacturing,NO,NO,NO
+AIRAN.NS,IT - Services,NO,NO,NO
+AIROLAM.NS,Consumer Durables,NO,NO,NO
+AISL.NS,Commercial Services & Supplies,NO,NO,NO
+AJANTPHARM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AJAXENGG.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+AJMERA.NS,Realty,NO,NO,NO
+AJOONI.NS,Food Products,NO,NO,NO
+AKANKSHA.NS,Electrical Equipment,NO,NO,NO
+AKASH.NS,Construction,NO,NO,NO
+AKG.NS,Commercial Services & Supplies,NO,NO,NO
+AKI.NS,Consumer Durables,NO,NO,NO
+AKIKO.NS,Finance,NO,NO,NO
+AKSHAR.NS,Textiles & Apparels,NO,NO,NO
+AKSHARCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+AKSHOPTFBR.NS,Telecom - Equipment & Accessories,NO,NO,NO
+AKUMS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AKZOINDIA.NS,Consumer Durables,NO,NO,NO
+ALANKIT.NS,Commercial Services & Supplies,NO,NO,NO
+ALBERTDAVD.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ALCODIS.NS,Beverages,NO,NO,NO
+ALEMBICLTD.NS,Realty,NO,NO,NO
+ALGOQUANT.NS,Finance,NO,NO,NO
+ALICON.NS,Auto Components,NO,NO,NO
+ALIVUS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ALKALI.NS,Chemicals & Petrochemicals,NO,NO,NO
+ALKEM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ALKYLAMINE.NS,Chemicals & Petrochemicals,NO,NO,NO
+ALLCARGO.NS,Transport Services,NO,NO,NO
+ALLDIGI.NS,Commercial Services & Supplies,NO,NO,NO
+ALLETEC.NS,IT - Software,NO,NO,NO
+ALLTIME.NS,Consumer Durables,NO,NO,NO
+ALMONDZ.NS,Capital Markets,NO,NO,NO
+ALOKINDS.NS,Textiles & Apparels,NO,NO,NO
+ALPA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ALPEXSOLAR.NS,Electrical Equipment,NO,NO,NO
+ALPHAGEO.NS,Oil,NO,NO,NO
+ALUWIND.NS,Industrial Products,NO,NO,NO
+AMAGI.NS,IT - Services,NO,NO,NO
+AMANTA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AMBANIORGO.NS,Chemicals & Petrochemicals,NO,NO,NO
+AMBER.NS,Consumer Durables,NO,NO,NO
+AMBEY.NS,Fertilizers & Agrochemicals,NO,NO,NO
+AMBICAAGAR.NS,Household Products,NO,NO,NO
+AMBIKCO.NS,Textiles & Apparels,NO,NO,NO
+AMBUJACEM.NS,Cement & Cement Products,NO,NO,NO
+AMCL.NS,Industrial Products,NO,NO,NO
+AMDIND.NS,Industrial Products,NO,NO,NO
+AMEYA.NS,Industrial Products,NO,NO,NO
+AMIABLE.NS,Transport Services,NO,NO,NO
+AMIRCHAND.NS,Agricultural Food & other Products,NO,NO,NO
+AMJLAND.NS,Realty,NO,NO,NO
+AMNPLST.NS,Chemicals & Petrochemicals,NO,NO,NO
+AMRUTANJAN.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ANANDRATHI.NS,Capital Markets,NO,NO,NO
+ANANTAM.NS,Transport Infrastructure,NO,NO,NO
+ANANTRAJ.NS,Realty,NO,NO,NO
+ANDHRAPAP.NS,"Paper, Forest & Jute Products",NO,NO,NO
+ANDHRSUGAR.NS,Chemicals & Petrochemicals,NO,NO,NO
+ANDREWYU.NS,Agricultural Food & other Products,NO,NO,NO
+ANGELONE.NS,Capital Markets,NO,NO,NO
+ANIKINDS.NS,Commercial Services & Supplies,NO,NO,NO
+ANKITMETAL.NS,Ferrous Metals,NO,NO,NO
+ANLON.NS,Commercial Services & Supplies,NO,NO,NO
+ANMOL.NS,Consumable Fuels,NO,NO,NO
+ANNAPURNA.NS,Food Products,NO,NO,NO
+ANONDITA.NS,Personal Products,NO,NO,NO
+ANSALAPI.NS,Realty,NO,NO,NO
+ANTELOPUS.NS,Oil,NO,NO,NO
+ANTGRAPHIC.NS,Industrial Products,NO,NO,NO
+ANTHEM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ANUHPHR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ANUP.NS,Industrial Manufacturing,NO,NO,NO
+ANURAS.NS,Chemicals & Petrochemicals,NO,NO,NO
+ANYA.NS,Fertilizers & Agrochemicals,NO,NO,NO
+ANZEN.NS,Power,NO,NO,NO
+APARINDS.NS,Electrical Equipment,NO,NO,NO
+APCL.NS,Cement & Cement Products,NO,NO,NO
+APCOTEXIND.NS,Industrial Products,NO,NO,NO
+APEX.NS,Food Products,NO,NO,NO
+APEXECO.NS,Other Utilities,NO,NO,NO
+APLAPOLLO.NS,Industrial Products,NO,NO,NO
+APLLTD.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+APOLLO.NS,Aerospace & Defense,NO,NO,NO
+APOLLOHOSP.NS,Healthcare Services,NO,NO,NO
+APOLLOPIPE.NS,Industrial Products,NO,NO,NO
+APOLLOTYRE.NS,Auto Components,NO,NO,NO
+APOLSINHOT.NS,Leisure Services,NO,NO,NO
+APRAMEYA.NS,Healthcare Equipment & Supplies,NO,NO,NO
+APS.NS,Electrical Equipment,NO,NO,NO
+APSISAERO.NS,Aerospace & Defense,NO,NO,NO
+APTECHT.NS,Other Consumer Services,NO,NO,NO
+APTUS.NS,Finance,NO,NO,NO
+AQYLON.NS,Entertainment,NO,NO,NO
+ARABIAN.NS,Petroleum Products,NO,NO,NO
+ARCHIDPLY.NS,Consumer Durables,NO,NO,NO
+ARCHIES.NS,Consumer Durables,NO,NO,NO
+ARCIIL.NS,Industrial Products,NO,NO,NO
+ARE&M.NS,Auto Components,NO,NO,NO
+ARENTERP.NS,Metals & Minerals Trading,NO,NO,NO
+ARFIN.NS,Non - Ferrous Metals,NO,NO,NO
+ARHAM.NS,Consumer Durables,NO,NO,NO
+ARIES.NS,Fertilizers & Agrochemicals,NO,NO,NO
+ARIHANTACA.NS,Other Consumer Services,NO,NO,NO
+ARIHANTCAP.NS,Capital Markets,NO,NO,NO
+ARIHANTSUP.NS,Realty,NO,NO,NO
+ARIS.NS,Other Construction Materials,NO,NO,NO
+ARISTO.NS,Fertilizers & Agrochemicals,NO,NO,NO
+ARKADE.NS,Realty,NO,NO,NO
+ARMANFIN.NS,Finance,NO,NO,NO
+ARMOUR.NS,Commercial Services & Supplies,NO,NO,NO
+AROGRANITE.NS,Consumer Durables,NO,NO,NO
+ARROWGREEN.NS,Industrial Products,NO,NO,NO
+ARSHIYA.NS,Transport Services,NO,NO,NO
+ARSSBL.NS,Capital Markets,NO,NO,NO
+ARTEMISMED.NS,Healthcare Services,NO,NO,NO
+ARTNIRMAN.NS,Realty,NO,NO,NO
+ARUNAYA.NS,Chemicals & Petrochemicals,NO,NO,NO
+ARVEE.NS,Chemicals & Petrochemicals,NO,NO,NO
+ARVIND.NS,Textiles & Apparels,NO,NO,NO
+ARVINDFASN.NS,Retailing,NO,NO,NO
+ARVINDPORT.NS,Transport Services,NO,NO,NO
+ARVSMART.NS,Realty,NO,NO,NO
+ASAHIINDIA.NS,Auto Components,NO,NO,NO
+ASAHISONG.NS,Chemicals & Petrochemicals,NO,NO,NO
+ASAL.NS,Auto Components,NO,NO,NO
+ASALCBR.NS,Beverages,NO,NO,NO
+ASCOM.NS,Finance,NO,NO,NO
+ASHALOG.NS,Transport Services,NO,NO,NO
+ASHAPURMIN.NS,Minerals & Mining,NO,NO,NO
+ASHIANA.NS,Realty,NO,NO,NO
+ASHIMASYN.NS,Textiles & Apparels,NO,NO,NO
+ASHOKA.NS,Construction,NO,NO,NO
+ASHOKAMET.NS,Metals & Minerals Trading,NO,NO,NO
+ASHOKLEY.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+ASHWINI.NS,Transport Services,NO,NO,NO
+ASIANENE.NS,Oil,NO,NO,NO
+ASIANHOTNR.NS,Leisure Services,NO,NO,NO
+ASIANPAINT.NS,Consumer Durables,NO,NO,NO
+ASIANTILES.NS,Consumer Durables,NO,NO,NO
+ASKAUTOLTD.NS,Auto Components,NO,NO,NO
+ASLIND.NS,Auto Components,NO,NO,NO
+ASMS.NS,IT - Services,NO,NO,NO
+ASPINWALL.NS,Transport Services,NO,NO,NO
+ASPIRE.NS,Consumer Durables,NO,NO,NO
+ASTEC.NS,Fertilizers & Agrochemicals,NO,NO,NO
+ASTERDM.NS,Healthcare Services,NO,NO,NO
+ASTRAL.NS,Industrial Products,NO,NO,NO
+ASTRAMICRO.NS,Aerospace & Defense,NO,NO,NO
+ASTRAZEN.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ASTRON.NS,"Paper, Forest & Jute Products",NO,NO,NO
+ATALREAL.NS,Realty,NO,NO,NO
+ATAM.NS,Industrial Manufacturing,NO,NO,NO
+ATCENERGY.NS,Electrical Equipment,NO,NO,NO
+ATGL.NS,Gas,NO,NO,NO
+ATHERENERG.NS,Automobiles,NO,NO,NO
+ATL.NS,Transport Infrastructure,NO,NO,NO
+ATLANTAA.NS,Construction,NO,NO,NO
+ATLANTAELE.NS,Electrical Equipment,NO,NO,NO
+ATLASCYCLE.NS,Consumer Durables,NO,NO,NO
+ATMASTCO.NS,Construction,NO,NO,NO
+ATUL.NS,Chemicals & Petrochemicals,NO,NO,NO
+ATULAUTO.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+AUBANK.NS,Banks,NO,NO,NO
+AURIGROW.NS,Industrial Manufacturing,NO,NO,NO
+AURIONPRO.NS,IT - Software,NO,NO,NO
+AUROIMPEX.NS,Industrial Products,NO,NO,NO
+AUROPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+AURUM.NS,IT - Services,NO,NO,NO
+AUSL.NS,Industrial Products,NO,NO,NO
+AUSOMENT.NS,Consumer Durables,NO,NO,NO
+AUTOAXLES.NS,Auto Components,NO,NO,NO
+AUTOIND.NS,Auto Components,NO,NO,NO
+AVADHSUGAR.NS,Agricultural Food & other Products,NO,NO,NO
+AVALON.NS,Electrical Equipment,NO,NO,NO
+AVANA.NS,Electrical Equipment,NO,NO,NO
+AVANTEL.NS,Aerospace & Defense,NO,NO,NO
+AVANTIFEED.NS,Food Products,NO,NO,NO
+AVG.NS,Transport Services,NO,NO,NO
+AVIANSH.NS,Textiles & Apparels,NO,NO,NO
+AVL.NS,Retailing,NO,NO,NO
+AVONMORE.NS,Finance,NO,NO,NO
+AVPINFRA.NS,Construction,NO,NO,NO
+AVROIND.NS,Consumer Durables,NO,NO,NO
+AVTNPL.NS,Agricultural Food & other Products,NO,NO,NO
+AWFIS.NS,Commercial Services & Supplies,NO,NO,NO
+AWHCL.NS,Other Utilities,NO,NO,NO
+AWL.NS,Agricultural Food & other Products,NO,NO,NO
+AXISBANK.NS,Banks,NO,NO,NO
+AXISCADES.NS,Aerospace & Defense,NO,NO,NO
+AXITA.NS,Textiles & Apparels,NO,NO,NO
+AYE.NS,Finance,NO,NO,NO
+AYMSYNTEX.NS,Textiles & Apparels,NO,NO,NO
+AZAD.NS,Electrical Equipment,NO,NO,NO
+BABAFP.NS,Food Products,NO,NO,NO
+BAFNAPH.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BAGDIGITAL.NS,Entertainment,NO,NO,NO
+BAGFILMS.NS,Entertainment,NO,NO,NO
+BAHETI.NS,Industrial Products,NO,NO,NO
+BAIDFIN.NS,Finance,NO,NO,NO
+BAJAJ-AUTO.NS,Automobiles,NO,NO,NO
+BAJAJCON.NS,Personal Products,NO,NO,NO
+BAJAJELEC.NS,Consumer Durables,NO,NO,NO
+BAJAJFINSV.NS,Finance,NO,NO,NO
+BAJAJHCARE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BAJAJHFL.NS,Finance,NO,NO,NO
+BAJAJHIND.NS,Agricultural Food & other Products,NO,NO,NO
+BAJAJHLDNG.NS,Finance,NO,NO,NO
+BAJAJINDEF.NS,Industrial Manufacturing,NO,NO,NO
+BAJEL.NS,Electrical Equipment,NO,NO,NO
+BAJFINANCE.NS,Finance,NO,NO,NO
+BALAJEE.NS,Industrial Products,NO,NO,NO
+BALAJIPHOS.NS,Fertilizers & Agrochemicals,NO,NO,NO
+BALAJITELE.NS,Entertainment,NO,NO,NO
+BALAMINES.NS,Chemicals & Petrochemicals,NO,NO,NO
+BALAXI.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BALCO.NS,Industrial Products,NO,NO,NO
+BALKRISHNA.NS,"Paper, Forest & Jute Products",NO,NO,NO
+BALKRISIND.NS,Auto Components,NO,NO,NO
+BALMLAWRIE.NS,Diversified,NO,NO,NO
+BALPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BALRAMCHIN.NS,Agricultural Food & other Products,NO,NO,NO
+BALUFORGE.NS,Industrial Products,NO,NO,NO
+BANARBEADS.NS,Consumer Durables,NO,NO,NO
+BANARISUG.NS,Agricultural Food & other Products,NO,NO,NO
+BANCOINDIA.NS,Auto Components,NO,NO,NO
+BANDHANBNK.NS,Banks,NO,NO,NO
+BANG.NS,Textiles & Apparels,NO,NO,NO
+BANKA.NS,Construction,NO,NO,NO
+BANKBARODA.NS,Banks,NO,NO,NO
+BANKINDIA.NS,Banks,NO,NO,NO
+BANSALWIRE.NS,Industrial Products,NO,NO,NO
+BANSWRAS.NS,Textiles & Apparels,NO,NO,NO
+BARFLEX.NS,Industrial Products,NO,NO,NO
+BASF.NS,Chemicals & Petrochemicals,NO,NO,NO
+BASILIC.NS,Entertainment,NO,NO,NO
+BASML.NS,Textiles & Apparels,NO,NO,NO
+BATAINDIA.NS,Consumer Durables,NO,NO,NO
+BAWEJA.NS,Entertainment,NO,NO,NO
+BAYERCROP.NS,Fertilizers & Agrochemicals,NO,NO,NO
+BBL.NS,Electrical Equipment,NO,NO,NO
+BBOX.NS,IT - Services,NO,NO,NO
+BBTC.NS,Food Products,NO,NO,NO
+BBTCL.NS,Industrial Products,NO,NO,NO
+BCG.NS,IT - Services,NO,NO,NO
+BCLIND.NS,Beverages,NO,NO,NO
+BCONCEPTS.NS,Retailing,NO,NO,NO
+BCP.NS,Industrial Products,NO,NO,NO
+BCPL.NS,Construction,NO,NO,NO
+BDL.NS,Aerospace & Defense,NO,NO,NO
+BEACON.NS,Capital Markets,NO,NO,NO
+BEARDSELL.NS,Industrial Products,NO,NO,NO
+BECTORFOOD.NS,Food Products,NO,NO,NO
+BEDMUTHA.NS,Industrial Products,NO,NO,NO
+BEL.NS,Aerospace & Defense,NO,NO,NO
+BELLACASA.NS,Textiles & Apparels,NO,NO,NO
+BELRISE.NS,Auto Components,NO,NO,NO
+BEML.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+BEPL.NS,Chemicals & Petrochemicals,NO,NO,NO
+BERGEPAINT.NS,Consumer Durables,NO,NO,NO
+BESTAGRO.NS,Fertilizers & Agrochemicals,NO,NO,NO
+BETA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BEWLTD.NS,Industrial Manufacturing,NO,NO,NO
+BFINVEST.NS,Finance,NO,NO,NO
+BFUTILITIE.NS,Transport Infrastructure,NO,NO,NO
+BGLOBAL.NS,IT - Services,NO,NO,NO
+BGRENERGY.NS,Construction,NO,NO,NO
+BHADORA.NS,Industrial Products,NO,NO,NO
+BHAGCHEM.NS,Fertilizers & Agrochemicals,NO,NO,NO
+BHAGERIA.NS,Chemicals & Petrochemicals,NO,NO,NO
+BHAGYANGR.NS,Non - Ferrous Metals,NO,NO,NO
+BHANDARI.NS,Textiles & Apparels,NO,NO,NO
+BHARATCOAL.NS,Consumable Fuels,NO,NO,NO
+BHARATFORG.NS,Auto Components,NO,NO,NO
+BHARATGEAR.NS,Auto Components,NO,NO,NO
+BHARATRAS.NS,Fertilizers & Agrochemicals,NO,NO,NO
+BHARATSE.NS,Auto Components,NO,NO,NO
+BHARATWIRE.NS,Industrial Products,NO,NO,NO
+BHARTIARTL.NS,Telecom - Services,NO,NO,NO
+BHARTIHEXA.NS,Telecom - Services,NO,NO,NO
+BHEL.NS,Electrical Equipment,NO,NO,NO
+BIGBLOC.NS,Cement & Cement Products,NO,NO,NO
+BIKAJI.NS,Food Products,NO,NO,NO
+BIKEWO.NS,Automobiles,NO,NO,NO
+BIL.NS,Consumer Durables,NO,NO,NO
+BILVYAPAR.NS,Finance,NO,NO,NO
+BIOCON.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BIOFILCHEM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BIOPOL.NS,Chemicals & Petrochemicals,NO,NO,NO
+BIRDYS.NS,Leisure Services,NO,NO,NO
+BIRET.NS,Realty,NO,NO,NO
+BIRLACABLE.NS,Telecom - Equipment & Accessories,NO,NO,NO
+BIRLACORPN.NS,Cement & Cement Products,NO,NO,NO
+BIRLAMONEY.NS,Capital Markets,NO,NO,NO
+BIRLANU.NS,Consumer Durables,NO,NO,NO
+BLACKBUCK.NS,Transport Services,NO,NO,NO
+BLAL.NS,Finance,NO,NO,NO
+BLBLIMITED.NS,Finance,NO,NO,NO
+BLISSGVS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BLKASHYAP.NS,Construction,NO,NO,NO
+BLS.NS,Leisure Services,NO,NO,NO
+BLSE.NS,IT - Services,NO,NO,NO
+BLUECHIP.NS,Finance,NO,NO,NO
+BLUECOAST.NS,Leisure Services,NO,NO,NO
+BLUEDART.NS,Transport Services,NO,NO,NO
+BLUEJET.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BLUEPEBBLE.NS,Other Consumer Services,NO,NO,NO
+BLUESTARCO.NS,Consumer Durables,NO,NO,NO
+BLUESTONE.NS,Consumer Durables,NO,NO,NO
+BLUEWATER.NS,Transport Services,NO,NO,NO
+BLUSPRING.NS,Commercial Services & Supplies,NO,NO,NO
+BMETRICS.NS,Commercial Services & Supplies,NO,NO,NO
+BMWVENTLTD.NS,Metals & Minerals Trading,NO,NO,NO
+BODALCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+BOHRAIND.NS,Fertilizers & Agrochemicals,NO,NO,NO
+BOMDYEING.NS,Textiles & Apparels,NO,NO,NO
+BONLON.NS,Diversified Metals,NO,NO,NO
+BORANA.NS,Textiles & Apparels,NO,NO,NO
+BOROLTD.NS,Consumer Durables,NO,NO,NO
+BORORENEW.NS,Industrial Products,NO,NO,NO
+BOROSCI.NS,Industrial Products,NO,NO,NO
+BOSCH-HCIL.NS,Consumer Durables,NO,NO,NO
+BOSCHLTD.NS,Auto Components,NO,NO,NO
+BOSS.NS,Industrial Manufacturing,NO,NO,NO
+BPCL.NS,Petroleum Products,NO,NO,NO
+BPL.NS,Consumer Durables,NO,NO,NO
+BRACEPORT.NS,Transport Services,NO,NO,NO
+BRANDMAN.NS,Consumer Durables,NO,NO,NO
+BRIGADE.NS,Realty,NO,NO,NO
+BRIGHOTEL.NS,Leisure Services,NO,NO,NO
+BRITANNIA.NS,Food Products,NO,NO,NO
+BRNL.NS,Construction,NO,NO,NO
+BROOKS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+BSE.NS,Capital Markets,NO,NO,NO
+BSHSL.NS,Agricultural Food & other Products,NO,NO,NO
+BSL.NS,Textiles & Apparels,NO,NO,NO
+BSOFT.NS,IT - Software,NO,NO,NO
+BTML.NS,Entertainment,NO,NO,NO
+BUILDPRO.NS,Retailing,NO,NO,NO
+BULKCORP.NS,Industrial Products,NO,NO,NO
+BUTTERFLY.NS,Consumer Durables,NO,NO,NO
+BVCL.NS,Cement & Cement Products,NO,NO,NO
+BYKE.NS,Leisure Services,NO,NO,NO
+C2C.NS,Aerospace & Defense,NO,NO,NO
+CADSYS.NS,Commercial Services & Supplies,NO,NO,NO
+CALSOFT.NS,IT - Software,NO,NO,NO
+CAMLINFINE.NS,Chemicals & Petrochemicals,NO,NO,NO
+CAMPUS.NS,Consumer Durables,NO,NO,NO
+CAMS.NS,Capital Markets,NO,NO,NO
+CANARYS.NS,IT - Software,NO,NO,NO
+CANBK.NS,Banks,NO,NO,NO
+CANFINHOME.NS,Finance,NO,NO,NO
+CANHLIFE.NS,Insurance,NO,NO,NO
+CANTABIL.NS,Textiles & Apparels,NO,NO,NO
+CAPACITE.NS,Construction,NO,NO,NO
+CAPILLARY.NS,IT - Software,NO,NO,NO
+CAPINVIT.NS,Construction,NO,NO,NO
+CAPITALSFB.NS,Banks,NO,NO,NO
+CAPLIPOINT.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+CAPTRUST.NS,Finance,NO,NO,NO
+CARBORUNIV.NS,Industrial Products,NO,NO,NO
+CARERATING.NS,Capital Markets,NO,NO,NO
+CARRARO.NS,Auto Components,NO,NO,NO
+CARTRADE.NS,Retailing,NO,NO,NO
+CARYSIL.NS,Consumer Durables,NO,NO,NO
+CASTROLIND.NS,Petroleum Products,NO,NO,NO
+CBAZAAR.NS,Retailing,NO,NO,NO
+CCAVENUE.NS,Financial Technology (Fintech),NO,NO,NO
+CCCL.NS,Realty,NO,NO,NO
+CCHHL.NS,Leisure Services,NO,NO,NO
+CCL.NS,Agricultural Food & other Products,NO,NO,NO
+CDSL.NS,Capital Markets,NO,NO,NO
+CEATLTD.NS,Auto Components,NO,NO,NO
+CEDAAR.NS,Textiles & Apparels,NO,NO,NO
+CEIGALL.NS,Construction,NO,NO,NO
+CEINSYS.NS,IT - Software,NO,NO,NO
+CELEBRITY.NS,Textiles & Apparels,NO,NO,NO
+CELLECOR.NS,Consumer Durables,NO,NO,NO
+CELLO.NS,Consumer Durables,NO,NO,NO
+CELLPOINT.NS,Retailing,NO,NO,NO
+CEMPRO.NS,Construction,NO,NO,NO
+CENTENKA.NS,Textiles & Apparels,NO,NO,NO
+CENTEXT.NS,Industrial Products,NO,NO,NO
+CENTRALBK.NS,Banks,NO,NO,NO
+CENTRUM.NS,Finance,NO,NO,NO
+CENTUM.NS,Industrial Manufacturing,NO,NO,NO
+CENTURYPLY.NS,Consumer Durables,NO,NO,NO
+CERA.NS,Consumer Durables,NO,NO,NO
+CEREBRAINT.NS,IT - Hardware,NO,NO,NO
+CESC.NS,Power,NO,NO,NO
+CEWATER.NS,Other Utilities,NO,NO,NO
+CGCL.NS,Finance,NO,NO,NO
+CGPOWER.NS,Electrical Equipment,NO,NO,NO
+CGRAPHICS.NS,Industrial Products,NO,NO,NO
+CHALET.NS,Leisure Services,NO,NO,NO
+CHAMBLFERT.NS,Fertilizers & Agrochemicals,NO,NO,NO
+CHAMUNDA.NS,Commercial Services & Supplies,NO,NO,NO
+CHANDAN.NS,Healthcare Services,NO,NO,NO
+CHAVDA.NS,Construction,NO,NO,NO
+CHEMBOND.NS,Chemicals & Petrochemicals,NO,NO,NO
+CHEMBONDCH.NS,Chemicals & Petrochemicals,NO,NO,NO
+CHEMCON.NS,Chemicals & Petrochemicals,NO,NO,NO
+CHEMFAB.NS,Chemicals & Petrochemicals,NO,NO,NO
+CHEMPLASTS.NS,Chemicals & Petrochemicals,NO,NO,NO
+CHENNPETRO.NS,Petroleum Products,NO,NO,NO
+CHETANA.NS,Printing & Publication,NO,NO,NO
+CHEVIOT.NS,"Paper, Forest & Jute Products",NO,NO,NO
+CHOICEIN.NS,Finance,NO,NO,NO
+CHOLAFIN.NS,Finance,NO,NO,NO
+CHOLAHLDNG.NS,Finance,NO,NO,NO
+CIEINDIA.NS,Auto Components,NO,NO,NO
+CIFL.NS,Finance,NO,NO,NO
+CIGNITITEC.NS,IT - Services,NO,NO,NO
+CINELINE.NS,Entertainment,NO,NO,NO
+CINEVISTA.NS,Entertainment,NO,NO,NO
+CIPLA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+CKKRETAIL.NS,Agricultural Food & other Products,NO,NO,NO
+CLASSICEIL.NS,Industrial Products,NO,NO,NO
+CLCIND.NS,Textiles & Apparels,NO,NO,NO
+CLEAN.NS,Chemicals & Petrochemicals,NO,NO,NO
+CLEANMAX.NS,Power,NO,NO,NO
+CLEDUCATE.NS,Other Consumer Services,NO,NO,NO
+CLSEL.NS,Agricultural Food & other Products,NO,NO,NO
+CLSL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+CMICABLES.NS,Industrial Products,NO,NO,NO
+CMNL.NS,Ferrous Metals,NO,NO,NO
+CMPDI.NS,Construction,NO,NO,NO
+CMRSL.NS,Media,NO,NO,NO
+CMSINFO.NS,Commercial Services & Supplies,NO,NO,NO
+CNL.NS,Commercial Services & Supplies,NO,NO,NO
+COALINDIA.NS,Consumable Fuels,NO,NO,NO
+COASTCORP.NS,Food Products,NO,NO,NO
+COCHINSHIP.NS,Industrial Manufacturing,NO,NO,NO
+COFFEEDAY.NS,Leisure Services,NO,NO,NO
+COFORGE.NS,IT - Software,NO,NO,NO
+COHANCE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+COLPAL.NS,Personal Products,NO,NO,NO
+COMMITTED.NS,Transport Services,NO,NO,NO
+COMPINFO.NS,IT - Hardware,NO,NO,NO
+COMPUSOFT.NS,Other Consumer Services,NO,NO,NO
+COMSYN.NS,Industrial Products,NO,NO,NO
+CONCOR.NS,Transport Services,NO,NO,NO
+CONCORDBIO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+CONFIPET.NS,Gas,NO,NO,NO
+CONNPLEX.NS,Entertainment,NO,NO,NO
+CONSOFINVT.NS,Finance,NO,NO,NO
+CONTI.NS,Commercial Services & Supplies,NO,NO,NO
+CONTROLPR.NS,IT - Hardware,NO,NO,NO
+COOLCAPS.NS,Industrial Products,NO,NO,NO
+CORALFINAC.NS,Commercial Services & Supplies,NO,NO,NO
+CORDSCABLE.NS,Industrial Products,NO,NO,NO
+COROMANDEL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+CORONA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+COSMOFIRST.NS,Industrial Products,NO,NO,NO
+COUNCODOS.NS,Realty,NO,NO,NO
+CPCAP.NS,Finance,NO,NO,NO
+CPEDU.NS,Other Consumer Services,NO,NO,NO
+CPPLUS.NS,Industrial Manufacturing,NO,NO,NO
+CPS.NS,Textiles & Apparels,NO,NO,NO
+CRAFTSMAN.NS,Auto Components,NO,NO,NO
+CRAMC.NS,Capital Markets,NO,NO,NO
+CRAYONS.NS,Media,NO,NO,NO
+CREATIVEYE.NS,Entertainment,NO,NO,NO
+CREDITACC.NS,Finance,NO,NO,NO
+CREST.NS,Finance,NO,NO,NO
+CRISIL.NS,Finance,NO,NO,NO
+CRIZAC.NS,Retailing,NO,NO,NO
+CROMPTON.NS,Consumer Durables,NO,NO,NO
+CROWN.NS,Industrial Manufacturing,NO,NO,NO
+CSBBANK.NS,Banks,NO,NO,NO
+CSLFINANCE.NS,Finance,NO,NO,NO
+CSSL.NS,Commercial Services & Supplies,NO,NO,NO
+CTE.NS,IT - Software,NO,NO,NO
+CUB.NS,Banks,NO,NO,NO
+CUBEINVIT.NS,Transport Infrastructure,NO,NO,NO
+CUBEXTUB.NS,Industrial Products,NO,NO,NO
+CUDML.NS,Media,NO,NO,NO
+CUMMINSIND.NS,Industrial Products,NO,NO,NO
+CUPID.NS,Personal Products,NO,NO,NO
+CURAA.NS,IT - Software,NO,NO,NO
+CURIS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+CURRENT.NS,Construction,NO,NO,NO
+CYBERMEDIA.NS,Media,NO,NO,NO
+CYBERTECH.NS,IT - Software,NO,NO,NO
+CYIENT.NS,IT - Services,NO,NO,NO
+CYIENTDLM.NS,Industrial Manufacturing,NO,NO,NO
+DABUR.NS,Personal Products,NO,NO,NO
+DALBHARAT.NS,Cement & Cement Products,NO,NO,NO
+DALMIASUG.NS,Agricultural Food & other Products,NO,NO,NO
+DAMCAPITAL.NS,Capital Markets,NO,NO,NO
+DAMODARIND.NS,Textiles & Apparels,NO,NO,NO
+DANGEE.NS,Food Products,NO,NO,NO
+DANISH.NS,Electrical Equipment,NO,NO,NO
+DATAMATICS.NS,IT - Services,NO,NO,NO
+DATAPATTNS.NS,Aerospace & Defense,NO,NO,NO
+DAVANGERE.NS,Diversified FMCG,NO,NO,NO
+DBCORP.NS,Media,NO,NO,NO
+DBEIL.NS,Construction,NO,NO,NO
+DBL.NS,Construction,NO,NO,NO
+DBOL.NS,Agricultural Food & other Products,NO,NO,NO
+DBREALTY.NS,Leisure Services,NO,NO,NO
+DBSTOCKBRO.NS,Capital Markets,NO,NO,NO
+DCAL.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+DCBBANK.NS,Banks,NO,NO,NO
+DCCL.NS,Finance,NO,NO,NO
+DCG.NS,Industrial Products,NO,NO,NO
+DCI.NS,IT - Hardware,NO,NO,NO
+DCM.NS,IT - Services,NO,NO,NO
+DCMFINSERV.NS,Finance,NO,NO,NO
+DCMNVL.NS,Textiles & Apparels,NO,NO,NO
+DCMSHRIRAM.NS,Diversified,NO,NO,NO
+DCMSIL.NS,Textiles & Apparels,NO,NO,NO
+DCMSRIND.NS,Agricultural Food & other Products,NO,NO,NO
+DCW.NS,Chemicals & Petrochemicals,NO,NO,NO
+DCXINDIA.NS,Aerospace & Defense,NO,NO,NO
+DDEVPLSTIK.NS,Chemicals & Petrochemicals,NO,NO,NO
+DECCANCE.NS,Cement & Cement Products,NO,NO,NO
+DECCANTRAN.NS,Transport Services,NO,NO,NO
+DEEDEV.NS,Industrial Manufacturing,NO,NO,NO
+DEEM.NS,Industrial Products,NO,NO,NO
+DEEPAKFERT.NS,Chemicals & Petrochemicals,NO,NO,NO
+DEEPAKNTR.NS,Chemicals & Petrochemicals,NO,NO,NO
+DEEPINDS.NS,Oil,NO,NO,NO
+DELAPLEX.NS,IT - Software,NO,NO,NO
+DELHIVERY.NS,Transport Services,NO,NO,NO
+DELPHIFX.NS,Finance,NO,NO,NO
+DELTACORP.NS,Leisure Services,NO,NO,NO
+DELTAMAGNT.NS,Industrial Products,NO,NO,NO
+DELTIC.NS,Automobiles,NO,NO,NO
+DEN.NS,Entertainment,NO,NO,NO
+DENEERS.NS,Industrial Products,NO,NO,NO
+DENORA.NS,Industrial Products,NO,NO,NO
+DENTA.NS,Other Utilities,NO,NO,NO
+DENTALKART.NS,Healthcare Equipment & Supplies,NO,NO,NO
+DEVIT.NS,IT - Services,NO,NO,NO
+DEVX.NS,Commercial Services & Supplies,NO,NO,NO
+DEVYANI.NS,Leisure Services,NO,NO,NO
+DGCONTENT.NS,Media,NO,NO,NO
+DHAMPURSUG.NS,Agricultural Food & other Products,NO,NO,NO
+DHANBANK.NS,Banks,NO,NO,NO
+DHANLAXMI.NS,Agricultural Food & other Products,NO,NO,NO
+DHANUKA.NS,Fertilizers & Agrochemicals,NO,NO,NO
+DHARAN.NS,Realty,NO,NO,NO
+DHARARAIL.NS,Commercial Services & Supplies,NO,NO,NO
+DHARIWAL.NS,Chemicals & Petrochemicals,NO,NO,NO
+DHARMAJ.NS,Fertilizers & Agrochemicals,NO,NO,NO
+DHRUV.NS,Commercial Services & Supplies,NO,NO,NO
+DHTL.NS,Other Consumer Services,NO,NO,NO
+DHUNINV.NS,Finance,NO,NO,NO
+DIACABS.NS,Electrical Equipment,NO,NO,NO
+DIAMINESQ.NS,Chemicals & Petrochemicals,NO,NO,NO
+DIAMONDYD.NS,Food Products,NO,NO,NO
+DICIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+DIFFNKG.NS,Industrial Products,NO,NO,NO
+DIGIDRIVE.NS,Retailing,NO,NO,NO
+DIGIKORE.NS,Entertainment,NO,NO,NO
+DIGISPICE.NS,IT - Services,NO,NO,NO
+DIGITIDE.NS,IT - Services,NO,NO,NO
+DIGJAMLMTD.NS,Textiles & Apparels,NO,NO,NO
+DIL.NS,Leisure Services,NO,NO,NO
+DIRL.NS,Realty,NO,NO,NO
+DISHTV.NS,Entertainment,NO,NO,NO
+DIVGIITTS.NS,Auto Components,NO,NO,NO
+DIVINEHIRA.NS,Consumer Durables,NO,NO,NO
+DIVISLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+DIVYADHAN.NS,Textiles & Apparels,NO,NO,NO
+DIXON.NS,Consumer Durables,NO,NO,NO
+DJML.NS,Transport Services,NO,NO,NO
+DKEGL.NS,Industrial Products,NO,NO,NO
+DLF.NS,Realty,NO,NO,NO
+DLINKINDIA.NS,IT - Hardware,NO,NO,NO
+DMART.NS,Retailing,NO,NO,NO
+DMCC.NS,Chemicals & Petrochemicals,NO,NO,NO
+DNAMEDIA.NS,Media,NO,NO,NO
+DODLA.NS,Food Products,NO,NO,NO
+DOLATALGO.NS,Capital Markets,NO,NO,NO
+DOLLAR.NS,Textiles & Apparels,NO,NO,NO
+DOLLEX.NS,Agricultural Food & other Products,NO,NO,NO
+DOLPHIN.NS,Oil,NO,NO,NO
+DOMS.NS,Household Products,NO,NO,NO
+DONEAR.NS,Textiles & Apparels,NO,NO,NO
+DPABHUSHAN.NS,Consumer Durables,NO,NO,NO
+DPEL.NS,Industrial Products,NO,NO,NO
+DPSCLTD.NS,Power,NO,NO,NO
+DPWIRES.NS,Industrial Products,NO,NO,NO
+DRCSYSTEMS.NS,IT - Software,NO,NO,NO
+DREAMFOLKS.NS,Transport Infrastructure,NO,NO,NO
+DREDGECORP.NS,Engineering Services,NO,NO,NO
+DRONE.NS,Other Consumer Services,NO,NO,NO
+DRREDDY.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+DRSCARGO.NS,Transport Services,NO,NO,NO
+DRSDILIP.NS,Transport Services,NO,NO,NO
+DSFCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+DSSL.NS,IT - Services,NO,NO,NO
+DTIL.NS,Agricultural Food & other Products,NO,NO,NO
+DTL.NS,Commercial Services & Supplies,NO,NO,NO
+DUCOL.NS,Chemicals & Petrochemicals,NO,NO,NO
+DUCON.NS,Industrial Manufacturing,NO,NO,NO
+DUGLOBAL.NS,Leisure Services,NO,NO,NO
+DURLAX.NS,Consumer Durables,NO,NO,NO
+DVL.NS,Diversified,NO,NO,NO
+DWARKESH.NS,Agricultural Food & other Products,NO,NO,NO
+DYCL.NS,Industrial Products,NO,NO,NO
+DYNAMATECH.NS,Industrial Manufacturing,NO,NO,NO
+DYNAMIC.NS,Commercial Services & Supplies,NO,NO,NO
+DYNPRO.NS,Chemicals & Petrochemicals,NO,NO,NO
+E2E.NS,IT - Services,NO,NO,NO
+E2ERAIL.NS,Construction,NO,NO,NO
+EASEMYTRIP.NS,Leisure Services,NO,NO,NO
+EASTSILK.NS,Textiles & Apparels,NO,NO,NO
+EBGNG.NS,IT - Hardware,NO,NO,NO
+ECLERX.NS,Commercial Services & Supplies,NO,NO,NO
+ECOLINE.NS,Industrial Products,NO,NO,NO
+ECOSMOBLTY.NS,Transport Services,NO,NO,NO
+EDELWEISS.NS,Finance,NO,NO,NO
+EDUCOMP.NS,Other Consumer Services,NO,NO,NO
+EEPL.NS,Electrical Equipment,NO,NO,NO
+EFACTOR.NS,Other Consumer Services,NO,NO,NO
+EFCIL.NS,Commercial Services & Supplies,NO,NO,NO
+EFFWA.NS,Other Utilities,NO,NO,NO
+EFORCE.NS,Electrical Equipment,NO,NO,NO
+EICHERMOT.NS,Automobiles,NO,NO,NO
+EIDPARRY.NS,Food Products,NO,NO,NO
+EIEL.NS,Other Utilities,NO,NO,NO
+EIFFL.NS,Food Products,NO,NO,NO
+EIHAHOTELS.NS,Leisure Services,NO,NO,NO
+EIHOTEL.NS,Leisure Services,NO,NO,NO
+EIMCOELECO.NS,Industrial Manufacturing,NO,NO,NO
+EKC.NS,Industrial Manufacturing,NO,NO,NO
+ELDEHSG.NS,Realty,NO,NO,NO
+ELECON.NS,Electrical Equipment,NO,NO,NO
+ELECTCAST.NS,Industrial Products,NO,NO,NO
+ELECTHERM.NS,Industrial Products,NO,NO,NO
+ELGIEQUIP.NS,Industrial Products,NO,NO,NO
+ELGIRUBCO.NS,Industrial Products,NO,NO,NO
+ELGNZ.NS,Commercial Services & Supplies,NO,NO,NO
+ELIN.NS,Consumer Durables,NO,NO,NO
+ELLEN.NS,Chemicals & Petrochemicals,NO,NO,NO
+EMAMILTD.NS,Personal Products,NO,NO,NO
+EMAMIPAP.NS,"Paper, Forest & Jute Products",NO,NO,NO
+EMAMIREAL.NS,Realty,NO,NO,NO
+EMAPARTNER.NS,Commercial Services & Supplies,NO,NO,NO
+EMBASSY.NS,Realty,NO,NO,NO
+EMBDL.NS,Realty,NO,NO,NO
+EMCURE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+EMIL.NS,Retailing,NO,NO,NO
+EMKAY.NS,Capital Markets,NO,NO,NO
+EMKAYTOOLS.NS,Industrial Manufacturing,NO,NO,NO
+EMMBI.NS,Industrial Products,NO,NO,NO
+EMMIL.NS,Industrial Manufacturing,NO,NO,NO
+EMMVEE.NS,Electrical Equipment,NO,NO,NO
+EMSLIMITED.NS,Other Utilities,NO,NO,NO
+EMUDHRA.NS,IT - Services,NO,NO,NO
+ENCOMPAS.NS,Commercial Services & Supplies,NO,NO,NO
+ENDURANCE.NS,Auto Components,NO,NO,NO
+ENERGYDEV.NS,Power,NO,NO,NO
+ENFUSE.NS,IT - Services,NO,NO,NO
+ENGINERSIN.NS,Construction,NO,NO,NO
+ENIL.NS,Entertainment,NO,NO,NO
+ENRIN.NS,Electrical Equipment,NO,NO,NO
+ENSER.NS,IT - Services,NO,NO,NO
+ENTERO.NS,Retailing,NO,NO,NO
+ENVIRO.NS,Industrial Products,NO,NO,NO
+EPACK.NS,Consumer Durables,NO,NO,NO
+EPACKPEB.NS,Industrial Manufacturing,NO,NO,NO
+EPIGRAL.NS,Chemicals & Petrochemicals,NO,NO,NO
+EPL.NS,Industrial Products,NO,NO,NO
+EPWINDIA.NS,IT - Hardware,NO,NO,NO
+EQUIPPP.NS,IT - Software,NO,NO,NO
+EQUITASBNK.NS,Banks,NO,NO,NO
+ERIS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ESABINDIA.NS,Industrial Products,NO,NO,NO
+ESAFSFB.NS,Banks,NO,NO,NO
+ESCONET.NS,IT - Hardware,NO,NO,NO
+ESCORTS.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+ESFL.NS,Consumer Durables,NO,NO,NO
+ESPRIT.NS,Consumer Durables,NO,NO,NO
+ESSARSHPNG.NS,Transport Services,NO,NO,NO
+ESSENTIA.NS,Commercial Services & Supplies,NO,NO,NO
+ESTER.NS,Industrial Products,NO,NO,NO
+ETERNAL.NS,Retailing,NO,NO,NO
+ETHOSLTD.NS,Consumer Durables,NO,NO,NO
+ETL.NS,Industrial Manufacturing,NO,NO,NO
+ETML.NS,Auto Components,NO,NO,NO
+EUREKAFORB.NS,Consumer Durables,NO,NO,NO
+EUROBOND.NS,Industrial Products,NO,NO,NO
+EUROPRATIK.NS,Consumer Durables,NO,NO,NO
+EUROTEXIND.NS,Textiles & Apparels,NO,NO,NO
+EVEREADY.NS,Household Products,NO,NO,NO
+EVERESTIND.NS,Other Construction Materials,NO,NO,NO
+EXCELINDUS.NS,Chemicals & Petrochemicals,NO,NO,NO
+EXCELLENT.NS,Industrial Products,NO,NO,NO
+EXCELSOFT.NS,IT - Services,NO,NO,NO
+EXICOM.NS,Electrical Equipment,NO,NO,NO
+EXIDEIND.NS,Auto Components,NO,NO,NO
+EXIMROUTES.NS,"Paper, Forest & Jute Products",NO,NO,NO
+EXPLEOSOL.NS,IT - Services,NO,NO,NO
+EXXARO.NS,Consumer Durables,NO,NO,NO
+FAALCON.NS,Industrial Manufacturing,NO,NO,NO
+FABTECH.NS,Healthcare Services,NO,NO,NO
+FACT.NS,Fertilizers & Agrochemicals,NO,NO,NO
+FAIRCHEMOR.NS,Chemicals & Petrochemicals,NO,NO,NO
+FALCONTECH.NS,Commercial Services & Supplies,NO,NO,NO
+FAZE3Q.NS,Textiles & Apparels,NO,NO,NO
+FCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+FCONSUMER.NS,Retailing,NO,NO,NO
+FCSSOFT.NS,IT - Services,NO,NO,NO
+FDC.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+FEDERALBNK.NS,Banks,NO,NO,NO
+FEDFINA.NS,Finance,NO,NO,NO
+FEL.NS,Retailing,NO,NO,NO
+FELDVR.NS,Retailing,NO,NO,NO
+FELIX.NS,Other Utilities,NO,NO,NO
+FIBERWEB.NS,Textiles & Apparels,NO,NO,NO
+FIDEL.NS,IT - Software,NO,NO,NO
+FIEMIND.NS,Auto Components,NO,NO,NO
+FILATEX.NS,Textiles & Apparels,NO,NO,NO
+FILATFASH.NS,Textiles & Apparels,NO,NO,NO
+FINBUD.NS,Financial Technology (Fintech),NO,NO,NO
+FINCABLES.NS,Industrial Products,NO,NO,NO
+FINEORG.NS,Chemicals & Petrochemicals,NO,NO,NO
+FINKURVE.NS,Finance,NO,NO,NO
+FINOPB.NS,Banks,NO,NO,NO
+FINPIPE.NS,Industrial Products,NO,NO,NO
+FIRSTCRY.NS,Retailing,NO,NO,NO
+FISCHER.NS,Healthcare Equipment & Supplies,NO,NO,NO
+FIVESTAR.NS,Finance,NO,NO,NO
+FLAIR.NS,Household Products,NO,NO,NO
+FLEXITUFF.NS,Textiles & Apparels,NO,NO,NO
+FLFL.NS,Retailing,NO,NO,NO
+FLUOROCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+FLYSBS.NS,Transport Services,NO,NO,NO
+FMGOETZE.NS,Auto Components,NO,NO,NO
+FMNL.NS,Commercial Services & Supplies,NO,NO,NO
+FOCE.NS,Consumer Durables,NO,NO,NO
+FOCUS.NS,Consumer Durables,NO,NO,NO
+FONEBOX.NS,Retailing,NO,NO,NO
+FOODSIN.NS,Food Products,NO,NO,NO
+FORCAS.NS,Textiles & Apparels,NO,NO,NO
+FORCEMOT.NS,Automobiles,NO,NO,NO
+FORGEAUTO.NS,Auto Components,NO,NO,NO
+FORTIS.NS,Healthcare Services,NO,NO,NO
+FOSECOIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+FRACTAL.NS,IT - Software,NO,NO,NO
+FRESHARA.NS,Food Products,NO,NO,NO
+FROG.NS,Telecom - Equipment & Accessories,NO,NO,NO
+FSL.NS,Commercial Services & Supplies,NO,NO,NO
+FUSION.NS,Finance,NO,NO,NO
+FWSTC.NS,Other Consumer Services,NO,NO,NO
+GABRIEL.NS,Auto Components,NO,NO,NO
+GAEL.NS,Agricultural Food & other Products,NO,NO,NO
+GAIL.NS,Gas,NO,NO,NO
+GAJANAND.NS,Textiles & Apparels,NO,NO,NO
+GALAPREC.NS,Industrial Manufacturing,NO,NO,NO
+GALAXYSURF.NS,Chemicals & Petrochemicals,NO,NO,NO
+GALLANTT.NS,Industrial Products,NO,NO,NO
+GANDHAR.NS,Petroleum Products,NO,NO,NO
+GANDHITUBE.NS,Industrial Products,NO,NO,NO
+GANECOS.NS,Textiles & Apparels,NO,NO,NO
+GANESHBE.NS,Oil,NO,NO,NO
+GANESHCP.NS,Food Products,NO,NO,NO
+GANESHHOU.NS,Realty,NO,NO,NO
+GANESHIN.NS,Construction,NO,NO,NO
+GANGABATH.NS,Consumer Durables,NO,NO,NO
+GANGAFORGE.NS,Industrial Products,NO,NO,NO
+GANGESSECU.NS,Agricultural Food & other Products,NO,NO,NO
+GARFIBRES.NS,Textiles & Apparels,NO,NO,NO
+GARUDA.NS,Construction,NO,NO,NO
+GATECH.NS,Finance,NO,NO,NO
+GATECHDVR.NS,Finance,NO,NO,NO
+GATEWAY.NS,Transport Services,NO,NO,NO
+GAUDIUMIVF.NS,Healthcare Services,NO,NO,NO
+GAYAHWS.NS,Transport Infrastructure,NO,NO,NO
+GAYAPROJ.NS,Construction,NO,NO,NO
+GCHOTELS.NS,Leisure Services,NO,NO,NO
+GCSL.NS,Capital Markets,NO,NO,NO
+GEECEE.NS,Realty,NO,NO,NO
+GEEKAYWIRE.NS,Industrial Products,NO,NO,NO
+GEMAROMA.NS,Chemicals & Petrochemicals,NO,NO,NO
+GENCON.NS,Realty,NO,NO,NO
+GENESYS.NS,IT - Services,NO,NO,NO
+GENSOL.NS,Electrical Equipment,NO,NO,NO
+GENUSPAPER.NS,"Paper, Forest & Jute Products",NO,NO,NO
+GENUSPOWER.NS,Electrical Equipment,NO,NO,NO
+GEOJITFSL.NS,Capital Markets,NO,NO,NO
+GESHIP.NS,Transport Services,NO,NO,NO
+GFLLIMITED.NS,Finance,NO,NO,NO
+GFSTEELS.NS,Industrial Products,NO,NO,NO
+GGBL.NS,Electrical Equipment,NO,NO,NO
+GHCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+GHCLTEXTIL.NS,Textiles & Apparels,NO,NO,NO
+GICHSGFIN.NS,Finance,NO,NO,NO
+GICL.NS,Transport Services,NO,NO,NO
+GICRE.NS,Insurance,NO,NO,NO
+GILLANDERS.NS,Agricultural Food & other Products,NO,NO,NO
+GILLETTE.NS,Personal Products,NO,NO,NO
+GINNIFILA.NS,Textiles & Apparels,NO,NO,NO
+GIPCL.NS,Power,NO,NO,NO
+GIRIRAJ.NS,Construction,NO,NO,NO
+GJL.NS,Consumer Durables,NO,NO,NO
+GKENERGY.NS,Construction,NO,NO,NO
+GKSL.NS,Healthcare Services,NO,NO,NO
+GKWLIMITED.NS,Finance,NO,NO,NO
+GLAND.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+GLAXO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+GLENMARK.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+GLFL.NS,Finance,NO,NO,NO
+GLOBAL.NS,Other Consumer Services,NO,NO,NO
+GLOBALE.NS,Textiles & Apparels,NO,NO,NO
+GLOBALPET.NS,Industrial Manufacturing,NO,NO,NO
+GLOBALVECT.NS,Transport Services,NO,NO,NO
+GLOBE.NS,Textiles & Apparels,NO,NO,NO
+GLOBECIVIL.NS,Construction,NO,NO,NO
+GLOBUSSPR.NS,Beverages,NO,NO,NO
+GLOSTERLTD.NS,"Paper, Forest & Jute Products",NO,NO,NO
+GLOTTIS.NS,Transport Services,NO,NO,NO
+GMBREW.NS,Beverages,NO,NO,NO
+GMDCLTD.NS,Minerals & Mining,NO,NO,NO
+GML.NS,Healthcare Equipment & Supplies,NO,NO,NO
+GMMPFAUDLR.NS,Industrial Manufacturing,NO,NO,NO
+GMRAIRPORT.NS,Transport Infrastructure,NO,NO,NO
+GMRP&UI.NS,Power,NO,NO,NO
+GNA.NS,Auto Components,NO,NO,NO
+GNFC.NS,Chemicals & Petrochemicals,NO,NO,NO
+GOACARBON.NS,Minerals & Mining,NO,NO,NO
+GOCLCORP.NS,Chemicals & Petrochemicals,NO,NO,NO
+GOCOLORS.NS,Retailing,NO,NO,NO
+GODAVARIB.NS,Diversified FMCG,NO,NO,NO
+GODFRYPHLP.NS,Cigarettes & Tobacco Products,NO,NO,NO
+GODIGIT.NS,Insurance,NO,NO,NO
+GODREJAGRO.NS,Food Products,NO,NO,NO
+GODREJCP.NS,Personal Products,NO,NO,NO
+GODREJIND.NS,Diversified,NO,NO,NO
+GODREJPROP.NS,Realty,NO,NO,NO
+GOKEX.NS,Textiles & Apparels,NO,NO,NO
+GOKUL.NS,Agricultural Food & other Products,NO,NO,NO
+GOKULAGRO.NS,Agricultural Food & other Products,NO,NO,NO
+GOLDENTOBC.NS,Realty,NO,NO,NO
+GOLDIAM.NS,Consumer Durables,NO,NO,NO
+GOLDKART.NS,Consumer Durables,NO,NO,NO
+GOLDSTAR.NS,Auto Components,NO,NO,NO
+GOLDTECH.NS,IT - Software,NO,NO,NO
+GOODLUCK.NS,Industrial Products,NO,NO,NO
+GOODYEAR.NS,Auto Components,NO,NO,NO
+GOPAL.NS,Food Products,NO,NO,NO
+GOYALALUM.NS,Commercial Services & Supplies,NO,NO,NO
+GOYALSALT.NS,Food Products,NO,NO,NO
+GPECO.NS,Electrical Equipment,NO,NO,NO
+GPIL.NS,Industrial Products,NO,NO,NO
+GPPL.NS,Transport Infrastructure,NO,NO,NO
+GPTHEALTH.NS,Healthcare Services,NO,NO,NO
+GPTINFRA.NS,Construction,NO,NO,NO
+GRANULES.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+GRAPHISAD.NS,Media,NO,NO,NO
+GRAPHITE.NS,Industrial Products,NO,NO,NO
+GRASIM.NS,Cement & Cement Products,NO,NO,NO
+GRAUWEIL.NS,Chemicals & Petrochemicals,NO,NO,NO
+GRAVITA.NS,Minerals & Mining,NO,NO,NO
+GRCL.NS,Industrial Products,NO,NO,NO
+GREAVESCOT.NS,Industrial Products,NO,NO,NO
+GREENCHEF.NS,Consumer Durables,NO,NO,NO
+GREENLAM.NS,Consumer Durables,NO,NO,NO
+GREENLEAF.NS,Other Utilities,NO,NO,NO
+GREENPANEL.NS,Consumer Durables,NO,NO,NO
+GREENPLY.NS,Consumer Durables,NO,NO,NO
+GREENPOWER.NS,Power,NO,NO,NO
+GRETEX.NS,Entertainment,NO,NO,NO
+GRINDWELL.NS,Industrial Products,NO,NO,NO
+GRINFRA.NS,Construction,NO,NO,NO
+GRMOVER.NS,Agricultural Food & other Products,NO,NO,NO
+GROBTEA.NS,Agricultural Food & other Products,NO,NO,NO
+GROWW.NS,Capital Markets,NO,NO,NO
+GRPLTD.NS,Industrial Products,NO,NO,NO
+GRSE.NS,Aerospace & Defense,NO,NO,NO
+GRWRHITECH.NS,Industrial Products,NO,NO,NO
+GSFC.NS,Fertilizers & Agrochemicals,NO,NO,NO
+GSLSU.NS,Consumer Durables,NO,NO,NO
+GSMFOILS.NS,Industrial Products,NO,NO,NO
+GSPCROP.NS,Fertilizers & Agrochemicals,NO,NO,NO
+GSPL.NS,Gas,NO,NO,NO
+GSS.NS,IT - Services,NO,NO,NO
+GSTL.NS,IT - Services,NO,NO,NO
+GTECJAINX.NS,Other Consumer Services,NO,NO,NO
+GTL.NS,Telecom - Services,NO,NO,NO
+GTLINFRA.NS,Telecom - Services,NO,NO,NO
+GTPL.NS,Entertainment,NO,NO,NO
+GUFICBIO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+GUJALKALI.NS,Chemicals & Petrochemicals,NO,NO,NO
+GUJAPOLLO.NS,Industrial Manufacturing,NO,NO,NO
+GUJGASLTD.NS,Gas,NO,NO,NO
+GUJRAFFIA.NS,Industrial Products,NO,NO,NO
+GUJTHEM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+GULFOILLUB.NS,Petroleum Products,NO,NO,NO
+GULFPETRO.NS,Petroleum Products,NO,NO,NO
+GULPOLY.NS,Agricultural Food & other Products,NO,NO,NO
+GURUNANAK.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+GVKPIL.NS,Construction,NO,NO,NO
+GVPIL.NS,Electrical Equipment,NO,NO,NO
+GVPTECH.NS,IT - Software,NO,NO,NO
+GVT&D.NS,Electrical Equipment,NO,NO,NO
+HAL.NS,Aerospace & Defense,NO,NO,NO
+HALDER.NS,Agricultural Food & other Products,NO,NO,NO
+HALEOSLABS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+HAPPSTMNDS.NS,IT - Software,NO,NO,NO
+HAPPYFORGE.NS,Industrial Products,NO,NO,NO
+HARDWYN.NS,Consumer Durables,NO,NO,NO
+HARIOMPIPE.NS,Industrial Products,NO,NO,NO
+HARRMALAYA.NS,Industrial Products,NO,NO,NO
+HARSHA.NS,Industrial Products,NO,NO,NO
+HATHWAY.NS,Entertainment,NO,NO,NO
+HATSUN.NS,Food Products,NO,NO,NO
+HAVELLS.NS,Consumer Durables,NO,NO,NO
+HAVISHA.NS,Leisure Services,NO,NO,NO
+HBLENGINE.NS,Industrial Products,NO,NO,NO
+HBSL.NS,Finance,NO,NO,NO
+HCC.NS,Construction,NO,NO,NO
+HCG.NS,Healthcare Services,NO,NO,NO
+HCL-INSYS.NS,IT - Hardware,NO,NO,NO
+HCLTECH.NS,IT - Software,NO,NO,NO
+HDBFS.NS,Finance,NO,NO,NO
+HDFCAMC.NS,Capital Markets,NO,NO,NO
+HDFCBANK.NS,Banks,NO,NO,NO
+HDFCLIFE.NS,Insurance,NO,NO,NO
+HDIL.NS,Realty,NO,NO,NO
+HEADSUP.NS,Textiles & Apparels,NO,NO,NO
+HECPROJECT.NS,Construction,NO,NO,NO
+HEG.NS,Industrial Products,NO,NO,NO
+HEIDELBERG.NS,Cement & Cement Products,NO,NO,NO
+HEMIPROP.NS,Commercial Services & Supplies,NO,NO,NO
+HERANBA.NS,Fertilizers & Agrochemicals,NO,NO,NO
+HERCULES.NS,Industrial Manufacturing,NO,NO,NO
+HERITGFOOD.NS,Food Products,NO,NO,NO
+HEROMOTOCO.NS,Automobiles,NO,NO,NO
+HESTERBIO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+HEXATRADEX.NS,Finance,NO,NO,NO
+HEXT.NS,IT - Software,NO,NO,NO
+HFCL.NS,Telecom - Services,NO,NO,NO
+HGINFRA.NS,Construction,NO,NO,NO
+HGM.NS,IT - Services,NO,NO,NO
+HGS.NS,Commercial Services & Supplies,NO,NO,NO
+HIGREEN.NS,Other Utilities,NO,NO,NO
+HIKAL.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+HILINFRA.NS,Transport Infrastructure,NO,NO,NO
+HILTON.NS,Industrial Products,NO,NO,NO
+HIMATSEIDE.NS,Textiles & Apparels,NO,NO,NO
+HINDALCO.NS,Non - Ferrous Metals,NO,NO,NO
+HINDCOMPOS.NS,Auto Components,NO,NO,NO
+HINDCON.NS,Chemicals & Petrochemicals,NO,NO,NO
+HINDCOPPER.NS,Non - Ferrous Metals,NO,NO,NO
+HINDMOTORS.NS,Automobiles,NO,NO,NO
+HINDOILEXP.NS,Oil,NO,NO,NO
+HINDPETRO.NS,Petroleum Products,NO,NO,NO
+HINDUNILVR.NS,Diversified FMCG,NO,NO,NO
+HINDWAREAP.NS,Consumer Durables,NO,NO,NO
+HINDZINC.NS,Non - Ferrous Metals,NO,NO,NO
+HIRECT.NS,Industrial Manufacturing,NO,NO,NO
+HISARMETAL.NS,Industrial Products,NO,NO,NO
+HITECH.NS,Industrial Products,NO,NO,NO
+HITECHCORP.NS,Industrial Products,NO,NO,NO
+HITECHGEAR.NS,Auto Components,NO,NO,NO
+HLEGLAS.NS,Industrial Manufacturing,NO,NO,NO
+HLVLTD.NS,Leisure Services,NO,NO,NO
+HMAAGRO.NS,Food Products,NO,NO,NO
+HMT.NS,Industrial Manufacturing,NO,NO,NO
+HMVL.NS,Media,NO,NO,NO
+HNDFDS.NS,Diversified FMCG,NO,NO,NO
+HOACFOODS.NS,Food Products,NO,NO,NO
+HOLMARC.NS,Industrial Products,NO,NO,NO
+HOMEFIRST.NS,Finance,NO,NO,NO
+HOMESFY.NS,Realty,NO,NO,NO
+HONASA.NS,Personal Products,NO,NO,NO
+HONAUT.NS,Industrial Manufacturing,NO,NO,NO
+HONDAPOWER.NS,Industrial Manufacturing,NO,NO,NO
+HPAL.NS,Chemicals & Petrochemicals,NO,NO,NO
+HPIL.NS,Chemicals & Petrochemicals,NO,NO,NO
+HPL.NS,Industrial Manufacturing,NO,NO,NO
+HPTL.NS,Commercial Services & Supplies,NO,NO,NO
+HRHNEXT.NS,Commercial Services & Supplies,NO,NO,NO
+HSCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+HTMEDIA.NS,Media,NO,NO,NO
+HUBTOWN.NS,Realty,NO,NO,NO
+HUDCO.NS,Finance,NO,NO,NO
+HUHTAMAKI.NS,Industrial Products,NO,NO,NO
+HVAX.NS,Construction,NO,NO,NO
+HYBRIDFIN.NS,Capital Markets,NO,NO,NO
+HYUNDAI.NS,Automobiles,NO,NO,NO
+IBLFL.NS,Finance,NO,NO,NO
+IBULLSLTD.NS,Commercial Services & Supplies,NO,NO,NO
+ICDSLTD.NS,Commercial Services & Supplies,NO,NO,NO
+ICEMAKE.NS,Industrial Manufacturing,NO,NO,NO
+ICICIAMC.NS,Capital Markets,NO,NO,NO
+ICICIBANK.NS,Banks,NO,NO,NO
+ICICIGI.NS,Insurance,NO,NO,NO
+ICICIPRULI.NS,Insurance,NO,NO,NO
+ICIL.NS,Textiles & Apparels,NO,NO,NO
+ICRA.NS,Capital Markets,NO,NO,NO
+IDBI.NS,Banks,NO,NO,NO
+IDEA.NS,Telecom - Services,NO,NO,NO
+IDEAFORGE.NS,Aerospace & Defense,NO,NO,NO
+IDEALTECHO.NS,Industrial Products,NO,NO,NO
+IDENTICAL.NS,Entertainment,NO,NO,NO
+IDFCFIRSTB.NS,Banks,NO,NO,NO
+IEML.NS,Chemicals & Petrochemicals,NO,NO,NO
+IEX.NS,Capital Markets,NO,NO,NO
+IFBAGRO.NS,Beverages,NO,NO,NO
+IFBIND.NS,Consumer Durables,NO,NO,NO
+IFCI.NS,Finance,NO,NO,NO
+IFGLEXPOR.NS,Industrial Products,NO,NO,NO
+IGARASHI.NS,Auto Components,NO,NO,NO
+IGCL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+IGIL.NS,Commercial Services & Supplies,NO,NO,NO
+IGL.NS,Gas,NO,NO,NO
+IGPL.NS,Chemicals & Petrochemicals,NO,NO,NO
+IIFL.NS,Finance,NO,NO,NO
+IIFLCAPS.NS,Capital Markets,NO,NO,NO
+IITL.NS,Finance,NO,NO,NO
+IKIO.NS,Consumer Durables,NO,NO,NO
+IKS.NS,IT - Services,NO,NO,NO
+IL&FSENGG.NS,Construction,NO,NO,NO
+IL&FSTRANS.NS,Construction,NO,NO,NO
+IMAGICAA.NS,Leisure Services,NO,NO,NO
+IMFA.NS,Ferrous Metals,NO,NO,NO
+IMPAL.NS,Auto Components,NO,NO,NO
+IMPEXFERRO.NS,Ferrous Metals,NO,NO,NO
+INA.NS,Power,NO,NO,NO
+INCREDIBLE.NS,Industrial Products,NO,NO,NO
+INDBANK.NS,Capital Markets,NO,NO,NO
+INDGN.NS,Healthcare Services,NO,NO,NO
+INDHOTEL.NS,Leisure Services,NO,NO,NO
+INDIACEM.NS,Cement & Cement Products,NO,NO,NO
+INDIAGLYCO.NS,Beverages,NO,NO,NO
+INDIAMART.NS,Retailing,NO,NO,NO
+INDIANB.NS,Banks,NO,NO,NO
+INDIANCARD.NS,Textiles & Apparels,NO,NO,NO
+INDIANHUME.NS,Industrial Manufacturing,NO,NO,NO
+INDIASHLTR.NS,Finance,NO,NO,NO
+INDIFRA.NS,Gas,NO,NO,NO
+INDIGO.NS,Transport Services,NO,NO,NO
+INDIGOPNTS.NS,Consumer Durables,NO,NO,NO
+INDIGRID.NS,Power,NO,NO,NO
+INDIQUBE.NS,Commercial Services & Supplies,NO,NO,NO
+INDNIPPON.NS,Auto Components,NO,NO,NO
+INDOAMIN.NS,Chemicals & Petrochemicals,NO,NO,NO
+INDOBORAX.NS,Chemicals & Petrochemicals,NO,NO,NO
+INDOCO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+INDOFARM.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+INDORAMA.NS,Textiles & Apparels,NO,NO,NO
+INDOSTAR.NS,Finance,NO,NO,NO
+INDOTECH.NS,Electrical Equipment,NO,NO,NO
+INDOTHAI.NS,Capital Markets,NO,NO,NO
+INDOUS.NS,Agricultural Food & other Products,NO,NO,NO
+INDOWIND.NS,Power,NO,NO,NO
+INDRAMEDCO.NS,Healthcare Services,NO,NO,NO
+INDSWFTLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+INDTERRAIN.NS,Textiles & Apparels,NO,NO,NO
+INDUSINDBK.NS,Banks,NO,NO,NO
+INDUSINVIT.NS,Transport Infrastructure,NO,NO,NO
+INDUSTOWER.NS,Telecom - Services,NO,NO,NO
+INFINIUM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+INFLUX.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+INFOBEAN.NS,IT - Software,NO,NO,NO
+INFOLLION.NS,Commercial Services & Supplies,NO,NO,NO
+INFOMEDIA.NS,Printing & Publication,NO,NO,NO
+INFY.NS,IT - Software,NO,NO,NO
+INGERRAND.NS,Industrial Products,NO,NO,NO
+INM.NS,Consumer Durables,NO,NO,NO
+INNOMET.NS,Diversified Metals,NO,NO,NO
+INNOVACAP.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+INNOVANA.NS,IT - Software,NO,NO,NO
+INNOVISION.NS,Transport Infrastructure,NO,NO,NO
+INOXGREEN.NS,Power,NO,NO,NO
+INOXINDIA.NS,Industrial Products,NO,NO,NO
+INOXWIND.NS,Electrical Equipment,NO,NO,NO
+INSECTICID.NS,Fertilizers & Agrochemicals,NO,NO,NO
+INSPIRE.NS,Entertainment,NO,NO,NO
+INSPIRISYS.NS,IT - Services,NO,NO,NO
+INTEGRITY.NS,Construction,NO,NO,NO
+INTELLECT.NS,IT - Software,NO,NO,NO
+INTENTECH.NS,IT - Services,NO,NO,NO
+INTERARCH.NS,Construction,NO,NO,NO
+INTLCONV.NS,Industrial Manufacturing,NO,NO,NO
+INVENTURE.NS,Capital Markets,NO,NO,NO
+INVICTA.NS,Healthcare Services,NO,NO,NO
+IOB.NS,Banks,NO,NO,NO
+IOC.NS,Petroleum Products,NO,NO,NO
+IOLCP.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+IONEXCHANG.NS,Other Utilities,NO,NO,NO
+IPCALAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+IPHL.NS,Chemicals & Petrochemicals,NO,NO,NO
+IPL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+IPSL.NS,Commercial Services & Supplies,NO,NO,NO
+IRB.NS,Construction,NO,NO,NO
+IRBINVIT.NS,Transport Infrastructure,NO,NO,NO
+IRCON.NS,Construction,NO,NO,NO
+IRCTC.NS,Leisure Services,NO,NO,NO
+IREDA.NS,Finance,NO,NO,NO
+IRFC.NS,Finance,NO,NO,NO
+IRIS.NS,IT - Software,NO,NO,NO
+IRISDOREME.NS,Textiles & Apparels,NO,NO,NO
+IRMENERGY.NS,Gas,NO,NO,NO
+ISFT.NS,Retailing,NO,NO,NO
+ISGEC.NS,Construction,NO,NO,NO
+ISHAN.NS,Industrial Manufacturing,NO,NO,NO
+ISHANCH.NS,Chemicals & Petrochemicals,NO,NO,NO
+ITALIANE.NS,Food Products,NO,NO,NO
+ITC.NS,Diversified FMCG,NO,NO,NO
+ITCHOTELS.NS,Leisure Services,NO,NO,NO
+ITDC.NS,Leisure Services,NO,NO,NO
+ITI.NS,Telecom - Equipment & Accessories,NO,NO,NO
+ITTL.NS,Auto Components,NO,NO,NO
+IVALUE.NS,IT - Services,NO,NO,NO
+IVC.NS,Capital Markets,NO,NO,NO
+IVP.NS,Chemicals & Petrochemicals,NO,NO,NO
+IWARE.NS,Transport Services,NO,NO,NO
+IXIGO.NS,Leisure Services,NO,NO,NO
+IZMO.NS,IT - Services,NO,NO,NO
+J&KBANK.NS,Banks,NO,NO,NO
+JAGRAN.NS,Media,NO,NO,NO
+JAGSNPHARM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+JAIBALAJI.NS,Ferrous Metals,NO,NO,NO
+JAICORPLTD.NS,Industrial Products,NO,NO,NO
+JAINAM.NS,Ferrous Metals,NO,NO,NO
+JAINIK.NS,Non - Ferrous Metals,NO,NO,NO
+JAINREC.NS,Diversified Metals,NO,NO,NO
+JAIPURKURT.NS,Textiles & Apparels,NO,NO,NO
+JALAN.NS,Transport Services,NO,NO,NO
+JAMNAAUTO.NS,Auto Components,NO,NO,NO
+JARO.NS,Other Consumer Services,NO,NO,NO
+JASH.NS,Industrial Manufacturing,NO,NO,NO
+JAYAGROGN.NS,Chemicals & Petrochemicals,NO,NO,NO
+JAYBARMARU.NS,Auto Components,NO,NO,NO
+JAYBEE.NS,Industrial Products,NO,NO,NO
+JAYESH.NS,Transport Services,NO,NO,NO
+JAYKAY.NS,Aerospace & Defense,NO,NO,NO
+JAYNECOIND.NS,Industrial Products,NO,NO,NO
+JAYSREETEA.NS,Agricultural Food & other Products,NO,NO,NO
+JBCHEPHARM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+JBMA.NS,Auto Components,NO,NO,NO
+JETFREIGHT.NS,Transport Services,NO,NO,NO
+JEYYAM.NS,Food Products,NO,NO,NO
+JFLLIFE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+JGCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+JHS.NS,Personal Products,NO,NO,NO
+JINDALPHOT.NS,Finance,NO,NO,NO
+JINDALPOLY.NS,Industrial Products,NO,NO,NO
+JINDALSAW.NS,Industrial Products,NO,NO,NO
+JINDALSTEL.NS,Ferrous Metals,NO,NO,NO
+JINDRILL.NS,Oil,NO,NO,NO
+JINDWORLD.NS,Textiles & Apparels,NO,NO,NO
+JIOFIN.NS,Finance,NO,NO,NO
+JISLDVREQS.NS,Industrial Products,NO,NO,NO
+JISLJALEQS.NS,Industrial Products,NO,NO,NO
+JITFINFRA.NS,Other Utilities,NO,NO,NO
+JIWANRAM.NS,Industrial Products,NO,NO,NO
+JKCEMENT.NS,Cement & Cement Products,NO,NO,NO
+JKIL.NS,Construction,NO,NO,NO
+JKIPL.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+JKLAKSHMI.NS,Cement & Cement Products,NO,NO,NO
+JKPAPER.NS,"Paper, Forest & Jute Products",NO,NO,NO
+JKTYRE.NS,Auto Components,NO,NO,NO
+JLHL.NS,Healthcare Services,NO,NO,NO
+JMA.NS,Auto Components,NO,NO,NO
+JMFINANCIL.NS,Finance,NO,NO,NO
+JNKINDIA.NS,Industrial Manufacturing,NO,NO,NO
+JOCIL.NS,Chemicals & Petrochemicals,NO,NO,NO
+JPASSOCIAT.NS,Construction,NO,NO,NO
+JPOLYINVST.NS,Finance,NO,NO,NO
+JPPOWER.NS,Power,NO,NO,NO
+JSFB.NS,Banks,NO,NO,NO
+JSL.NS,Ferrous Metals,NO,NO,NO
+JSLL.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+JSWCEMENT.NS,Cement & Cement Products,NO,NO,NO
+JSWENERGY.NS,Power,NO,NO,NO
+JSWHL.NS,Finance,NO,NO,NO
+JSWINFRA.NS,Transport Infrastructure,NO,NO,NO
+JSWSTEEL.NS,Ferrous Metals,NO,NO,NO
+JTEKTINDIA.NS,Auto Components,NO,NO,NO
+JTLIND.NS,Industrial Products,NO,NO,NO
+JUBLCPL.NS,Chemicals & Petrochemicals,NO,NO,NO
+JUBLFOOD.NS,Leisure Services,NO,NO,NO
+JUBLINGREA.NS,Chemicals & Petrochemicals,NO,NO,NO
+JUBLPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+JUNIPER.NS,Leisure Services,NO,NO,NO
+JUSTDIAL.NS,Retailing,NO,NO,NO
+JWL.NS,Industrial Manufacturing,NO,NO,NO
+JYOTHYLAB.NS,Household Products,NO,NO,NO
+JYOTICNC.NS,Industrial Manufacturing,NO,NO,NO
+JYOTIGLOBL.NS,Industrial Products,NO,NO,NO
+JYOTISTRUC.NS,Electrical Equipment,NO,NO,NO
+K2INFRA.NS,Construction,NO,NO,NO
+KABRAEXTRU.NS,Industrial Manufacturing,NO,NO,NO
+KAJARIACER.NS,Consumer Durables,NO,NO,NO
+KAKATCEM.NS,Cement & Cement Products,NO,NO,NO
+KALAMANDIR.NS,Retailing,NO,NO,NO
+KALANA.NS,Industrial Products,NO,NO,NO
+KALPATARU.NS,Realty,NO,NO,NO
+KALYANIFRG.NS,Industrial Products,NO,NO,NO
+KALYANKJIL.NS,Consumer Durables,NO,NO,NO
+KAMATHOTEL.NS,Leisure Services,NO,NO,NO
+KAMDHENU.NS,Industrial Products,NO,NO,NO
+KAMOPAINTS.NS,Consumer Durables,NO,NO,NO
+KANANIIND.NS,Consumer Durables,NO,NO,NO
+KANDARP.NS,Commercial Services & Supplies,NO,NO,NO
+KANORICHEM.NS,Industrial Manufacturing,NO,NO,NO
+KANPRPLA.NS,Industrial Products,NO,NO,NO
+KANSAINER.NS,Consumer Durables,NO,NO,NO
+KAPSTON.NS,Commercial Services & Supplies,NO,NO,NO
+KARMAENG.NS,Power,NO,NO,NO
+KARNIKA.NS,Textiles & Apparels,NO,NO,NO
+KARURVYSYA.NS,Banks,NO,NO,NO
+KATARIA.NS,Industrial Manufacturing,NO,NO,NO
+KAUSHALYA.NS,Leisure Services,NO,NO,NO
+KAVDEFENCE.NS,Telecom - Equipment & Accessories,NO,NO,NO
+KAYA.NS,Leisure Services,NO,NO,NO
+KAYNES.NS,Industrial Manufacturing,NO,NO,NO
+KAYTEX.NS,Textiles & Apparels,NO,NO,NO
+KCEIL.NS,Construction,NO,NO,NO
+KCK.NS,Agricultural Food & other Products,NO,NO,NO
+KCP.NS,Cement & Cement Products,NO,NO,NO
+KCPSUGIND.NS,Agricultural Food & other Products,NO,NO,NO
+KDDL.NS,Consumer Durables,NO,NO,NO
+KDL.NS,Telecom - Services,NO,NO,NO
+KEC.NS,Construction,NO,NO,NO
+KECL.NS,Electrical Equipment,NO,NO,NO
+KEEPLEARN.NS,Other Consumer Services,NO,NO,NO
+KEI.NS,Industrial Products,NO,NO,NO
+KEL.NS,Consumer Durables,NO,NO,NO
+KELLTONTEC.NS,IT - Services,NO,NO,NO
+KEN.NS,Textiles & Apparels,NO,NO,NO
+KENNAMET.NS,Industrial Manufacturing,NO,NO,NO
+KERNEX.NS,Transport Services,NO,NO,NO
+KESORAMIND.NS,Cement & Cement Products,NO,NO,NO
+KEYFINSERV.NS,Capital Markets,NO,NO,NO
+KFINTECH.NS,Capital Markets,NO,NO,NO
+KHADIM.NS,Consumer Durables,NO,NO,NO
+KHAICHEM.NS,Fertilizers & Agrochemicals,NO,NO,NO
+KHAITANLTD.NS,Consumer Durables,NO,NO,NO
+KHANDSE.NS,Capital Markets,NO,NO,NO
+KHFM.NS,Commercial Services & Supplies,NO,NO,NO
+KICL.NS,Finance,NO,NO,NO
+KILITCH.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+KIMS.NS,Healthcare Services,NO,NO,NO
+KINGFA.NS,Industrial Products,NO,NO,NO
+KIOCL.NS,Ferrous Metals,NO,NO,NO
+KIRIINDUS.NS,Chemicals & Petrochemicals,NO,NO,NO
+KIRLFER.NS,Ferrous Metals,NO,NO,NO
+KIRLOSBROS.NS,Industrial Products,NO,NO,NO
+KIRLOSENG.NS,Industrial Products,NO,NO,NO
+KIRLOSIND.NS,Industrial Products,NO,NO,NO
+KIRLPNU.NS,Industrial Products,NO,NO,NO
+KITEX.NS,Textiles & Apparels,NO,NO,NO
+KKCL.NS,Textiles & Apparels,NO,NO,NO
+KKJEWELS.NS,Consumer Durables,NO,NO,NO
+KKVAPOW.NS,Consumer Durables,NO,NO,NO
+KLL.NS,Retailing,NO,NO,NO
+KMEW.NS,Engineering Services,NO,NO,NO
+KMSUGAR.NS,Agricultural Food & other Products,NO,NO,NO
+KNAGRI.NS,Agricultural Food & other Products,NO,NO,NO
+KNRCON.NS,Construction,NO,NO,NO
+KODYTECH.NS,IT - Software,NO,NO,NO
+KOHINOOR.NS,Agricultural Food & other Products,NO,NO,NO
+KOKUYOCMLN.NS,Household Products,NO,NO,NO
+KOLTEPATIL.NS,Realty,NO,NO,NO
+KONSTELEC.NS,Construction,NO,NO,NO
+KONTOR.NS,Commercial Services & Supplies,NO,NO,NO
+KOPRAN.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+KORE.NS,Retailing,NO,NO,NO
+KOTAKBANK.NS,Banks,NO,NO,NO
+KOTARISUG.NS,Agricultural Food & other Products,NO,NO,NO
+KOTHARIPET.NS,Chemicals & Petrochemicals,NO,NO,NO
+KOTHARIPRO.NS,Commercial Services & Supplies,NO,NO,NO
+KOTYARK.NS,Petroleum Products,NO,NO,NO
+KOVAI.NS,Healthcare Services,NO,NO,NO
+KPEL.NS,Power,NO,NO,NO
+KPIGREEN.NS,Power,NO,NO,NO
+KPIL.NS,Construction,NO,NO,NO
+KPITTECH.NS,IT - Software,NO,NO,NO
+KPRMILL.NS,Textiles & Apparels,NO,NO,NO
+KRBL.NS,Agricultural Food & other Products,NO,NO,NO
+KREBSBIO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+KRIDHANINF.NS,Construction,NO,NO,NO
+KRISHANA.NS,Fertilizers & Agrochemicals,NO,NO,NO
+KRISHCA.NS,Industrial Products,NO,NO,NO
+KRISHIVAL.NS,Food Products,NO,NO,NO
+KRISHNADEF.NS,Aerospace & Defense,NO,NO,NO
+KRISNAFILA.NS,Industrial Products,NO,NO,NO
+KRITI.NS,Industrial Products,NO,NO,NO
+KRITIKA.NS,Industrial Products,NO,NO,NO
+KRITINUT.NS,Agricultural Food & other Products,NO,NO,NO
+KRMAYURVED.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+KRN.NS,Industrial Products,NO,NO,NO
+KRONOX.NS,Chemicals & Petrochemicals,NO,NO,NO
+KROSS.NS,Auto Components,NO,NO,NO
+KRSNAA.NS,Healthcare Services,NO,NO,NO
+KRT.NS,Realty,NO,NO,NO
+KRYSTAL.NS,Commercial Services & Supplies,NO,NO,NO
+KSB.NS,Industrial Products,NO,NO,NO
+KSCL.NS,Agricultural Food & other Products,NO,NO,NO
+KSHINTL.NS,Industrial Products,NO,NO,NO
+KSHITIJPOL.NS,Chemicals & Petrochemicals,NO,NO,NO
+KSL.NS,Industrial Products,NO,NO,NO
+KSOLVES.NS,IT - Software,NO,NO,NO
+KSR.NS,Commercial Services & Supplies,NO,NO,NO
+KTKBANK.NS,Banks,NO,NO,NO
+KUANTUM.NS,"Paper, Forest & Jute Products",NO,NO,NO
+KWIL.NS,Food Products,NO,NO,NO
+LAGNAM.NS,Textiles & Apparels,NO,NO,NO
+LAKPRE.NS,Auto Components,NO,NO,NO
+LAKSHYA.NS,Construction,NO,NO,NO
+LAL.NS,Textiles & Apparels,NO,NO,NO
+LALPATHLAB.NS,Healthcare Services,NO,NO,NO
+LAMBODHARA.NS,Textiles & Apparels,NO,NO,NO
+LAMOSAIC.NS,Consumer Durables,NO,NO,NO
+LANCER.NS,Transport Services,NO,NO,NO
+LANCORHOL.NS,Realty,NO,NO,NO
+LANDMARK.NS,Automobiles,NO,NO,NO
+LANDSMILL.NS,Commercial Services & Supplies,NO,NO,NO
+LAOPALA.NS,Consumer Durables,NO,NO,NO
+LASA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+LATENTVIEW.NS,IT - Software,NO,NO,NO
+LATTEYS.NS,Industrial Products,NO,NO,NO
+LAURUSLABS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+LAXMICOT.NS,Textiles & Apparels,NO,NO,NO
+LAXMIDENTL.NS,Healthcare Equipment & Supplies,NO,NO,NO
+LAXMIINDIA.NS,Finance,NO,NO,NO
+LCCINFOTEC.NS,Other Consumer Services,NO,NO,NO
+LEMERITE.NS,Textiles & Apparels,NO,NO,NO
+LEMONTREE.NS,Leisure Services,NO,NO,NO
+LENSKART.NS,Retailing,NO,NO,NO
+LEXUS.NS,Consumer Durables,NO,NO,NO
+LFIC.NS,Finance,NO,NO,NO
+LGBBROSLTD.NS,Auto Components,NO,NO,NO
+LGEINDIA.NS,Consumer Durables,NO,NO,NO
+LGHL.NS,Consumer Durables,NO,NO,NO
+LIBAS.NS,Textiles & Apparels,NO,NO,NO
+LIBERTSHOE.NS,Consumer Durables,NO,NO,NO
+LICHSGFIN.NS,Finance,NO,NO,NO
+LICI.NS,Insurance,NO,NO,NO
+LIKHITHA.NS,Construction,NO,NO,NO
+LINC.NS,Household Products,NO,NO,NO
+LINCOLN.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+LINDEINDIA.NS,Chemicals & Petrochemicals,NO,NO,NO
+LLOYDS.NS,Leisure Services,NO,NO,NO
+LLOYDSENGG.NS,Industrial Manufacturing,NO,NO,NO
+LLOYDSENT.NS,Metals & Minerals Trading,NO,NO,NO
+LLOYDSME.NS,Minerals & Mining,NO,NO,NO
+LMW.NS,Industrial Manufacturing,NO,NO,NO
+LODHA.NS,Realty,NO,NO,NO
+LOKESHMACH.NS,Industrial Manufacturing,NO,NO,NO
+LORDSCHLO.NS,Chemicals & Petrochemicals,NO,NO,NO
+LOTUSDEV.NS,Realty,NO,NO,NO
+LOTUSEYE.NS,Healthcare Services,NO,NO,NO
+LOVABLE.NS,Textiles & Apparels,NO,NO,NO
+LOYALTEX.NS,Textiles & Apparels,NO,NO,NO
+LPDC.NS,Realty,NO,NO,NO
+LRRPL.NS,Industrial Products,NO,NO,NO
+LT.NS,Construction,NO,NO,NO
+LTF.NS,Finance,NO,NO,NO
+LTFOODS.NS,Agricultural Food & other Products,NO,NO,NO
+LTM.NS,IT - Software,NO,NO,NO
+LTTS.NS,IT - Services,NO,NO,NO
+LUMAXIND.NS,Auto Components,NO,NO,NO
+LUMAXTECH.NS,Auto Components,NO,NO,NO
+LUPIN.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+LUXIND.NS,Textiles & Apparels,NO,NO,NO
+LXCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+LYKALABS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+LYPSAGEMS.NS,Consumer Durables,NO,NO,NO
+M&M.NS,Automobiles,NO,NO,NO
+M&MFIN.NS,Finance,NO,NO,NO
+MAANALU.NS,Non - Ferrous Metals,NO,NO,NO
+MACOBSTECH.NS,Personal Products,NO,NO,NO
+MACPOWER.NS,Industrial Manufacturing,NO,NO,NO
+MADHAV.NS,Consumer Durables,NO,NO,NO
+MADHAVBAUG.NS,Healthcare Equipment & Supplies,NO,NO,NO
+MADHUCON.NS,Construction,NO,NO,NO
+MADHUSUDAN.NS,Food Products,NO,NO,NO
+MADRASFERT.NS,Fertilizers & Agrochemicals,NO,NO,NO
+MAGADSUGAR.NS,Agricultural Food & other Products,NO,NO,NO
+MAGNUM.NS,"Paper, Forest & Jute Products",NO,NO,NO
+MAGSON.NS,Food Products,NO,NO,NO
+MAHABANK.NS,Banks,NO,NO,NO
+MAHAPEXLTD.NS,Finance,NO,NO,NO
+MAHASTEEL.NS,Industrial Products,NO,NO,NO
+MAHEPC.NS,Industrial Manufacturing,NO,NO,NO
+MAHESHWARI.NS,Diversified,NO,NO,NO
+MAHICKRA.NS,Chemicals & Petrochemicals,NO,NO,NO
+MAHLIFE.NS,Realty,NO,NO,NO
+MAHLOG.NS,Transport Services,NO,NO,NO
+MAHSCOOTER.NS,Finance,NO,NO,NO
+MAHSEAMLES.NS,Industrial Products,NO,NO,NO
+MAITHANALL.NS,Ferrous Metals,NO,NO,NO
+MAITREYA.NS,Healthcare Services,NO,NO,NO
+MAKS.NS,Industrial Products,NO,NO,NO
+MAL.NS,Industrial Products,NO,NO,NO
+MALLCOM.NS,Industrial Products,NO,NO,NO
+MALUPAPER.NS,"Paper, Forest & Jute Products",NO,NO,NO
+MAMATA.NS,Industrial Manufacturing,NO,NO,NO
+MANAKALUCO.NS,Non - Ferrous Metals,NO,NO,NO
+MANAKCOAT.NS,Industrial Products,NO,NO,NO
+MANAKSIA.NS,Industrial Products,NO,NO,NO
+MANAKSTEEL.NS,Ferrous Metals,NO,NO,NO
+MANALIPETC.NS,Chemicals & Petrochemicals,NO,NO,NO
+MANAPPURAM.NS,Finance,NO,NO,NO
+MANAV.NS,Construction,NO,NO,NO
+MANBA.NS,Finance,NO,NO,NO
+MANCREDIT.NS,Finance,NO,NO,NO
+MANDEEP.NS,Auto Components,NO,NO,NO
+MANGALAM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MANGLMCEM.NS,Cement & Cement Products,NO,NO,NO
+MANILAM.NS,Consumer Durables,NO,NO,NO
+MANINDS.NS,Industrial Products,NO,NO,NO
+MANINFRA.NS,Construction,NO,NO,NO
+MANKIND.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MANOMAY.NS,Textiles & Apparels,NO,NO,NO
+MANORAMA.NS,Food Products,NO,NO,NO
+MANORG.NS,Chemicals & Petrochemicals,NO,NO,NO
+MANUGRAPH.NS,Industrial Manufacturing,NO,NO,NO
+MANYAVAR.NS,Retailing,NO,NO,NO
+MAPMYINDIA.NS,IT - Software,NO,NO,NO
+MARALOVER.NS,Textiles & Apparels,NO,NO,NO
+MARATHON.NS,Realty,NO,NO,NO
+MARC.NS,Commercial Services & Supplies,NO,NO,NO
+MARCO.NS,Industrial Products,NO,NO,NO
+MARICO.NS,Agricultural Food & other Products,NO,NO,NO
+MARINE.NS,Industrial Manufacturing,NO,NO,NO
+MARINETRAN.NS,Transport Services,NO,NO,NO
+MARKOLINES.NS,Construction,NO,NO,NO
+MARKSANS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MARSONS.NS,Electrical Equipment,NO,NO,NO
+MARUSHIKA.NS,IT - Hardware,NO,NO,NO
+MARUTI.NS,Automobiles,NO,NO,NO
+MASFIN.NS,Finance,NO,NO,NO
+MASKINVEST.NS,Finance,NO,NO,NO
+MASON.NS,Realty,NO,NO,NO
+MASTEK.NS,IT - Software,NO,NO,NO
+MASTER.NS,Industrial Products,NO,NO,NO
+MASTERTR.NS,Capital Markets,NO,NO,NO
+MATRIMONY.NS,Retailing,NO,NO,NO
+MAWANASUG.NS,Agricultural Food & other Products,NO,NO,NO
+MAXESTATES.NS,Realty,NO,NO,NO
+MAXHEALTH.NS,Healthcare Services,NO,NO,NO
+MAXIND.NS,Finance,NO,NO,NO
+MAXPOSURE.NS,Entertainment,NO,NO,NO
+MAXVOLT.NS,Auto Components,NO,NO,NO
+MAYASHEEL.NS,Construction,NO,NO,NO
+MAYURUNIQ.NS,Consumer Durables,NO,NO,NO
+MAZDA.NS,Industrial Manufacturing,NO,NO,NO
+MAZDOCK.NS,Industrial Manufacturing,NO,NO,NO
+MBAPL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+MBEL.NS,Construction,NO,NO,NO
+MBLINFRA.NS,Construction,NO,NO,NO
+MCL.NS,Industrial Products,NO,NO,NO
+MCLEODRUSS.NS,Agricultural Food & other Products,NO,NO,NO
+MCLOUD.NS,IT - Software,NO,NO,NO
+MCON.NS,Other Construction Materials,NO,NO,NO
+MCX.NS,Capital Markets,NO,NO,NO
+MDL.NS,Consumer Durables,NO,NO,NO
+MEDANTA.NS,Healthcare Services,NO,NO,NO
+MEDIASSIST.NS,Insurance,NO,NO,NO
+MEDICAMEQ.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MEDICO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MEDIORG.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MEDISTEP.NS,Personal Products,NO,NO,NO
+MEDPLUS.NS,Retailing,NO,NO,NO
+MEESHO.NS,Retailing,NO,NO,NO
+MEGAFLEX.NS,Industrial Products,NO,NO,NO
+MEGASTAR.NS,Food Products,NO,NO,NO
+MEGATHERM.NS,Industrial Products,NO,NO,NO
+MEIL.NS,Electrical Equipment,NO,NO,NO
+MENONBE.NS,Auto Components,NO,NO,NO
+MEP.NS,Transport Infrastructure,NO,NO,NO
+METROBRAND.NS,Consumer Durables,NO,NO,NO
+METROPOLIS.NS,Healthcare Services,NO,NO,NO
+MFML.NS,Textiles & Apparels,NO,NO,NO
+MFSL.NS,Insurance,NO,NO,NO
+MGEL.NS,Agricultural Food & other Products,NO,NO,NO
+MGL.NS,Gas,NO,NO,NO
+MGSL.NS,IT - Services,NO,NO,NO
+MHHL.NS,Healthcare Equipment & Supplies,NO,NO,NO
+MHLXMIRU.NS,Textiles & Apparels,NO,NO,NO
+MHRIL.NS,Leisure Services,NO,NO,NO
+MICEL.NS,Industrial Products,NO,NO,NO
+MICROPRO.NS,IT - Software,NO,NO,NO
+MIDHANI.NS,Aerospace & Defense,NO,NO,NO
+MIDWESTLTD.NS,Consumer Durables,NO,NO,NO
+MIEL.NS,Commercial Services & Supplies,NO,NO,NO
+MILTON.NS,Consumer Durables,NO,NO,NO
+MINDACORP.NS,Auto Components,NO,NO,NO
+MINDSPACE.NS,Realty,NO,NO,NO
+MINDTECK.NS,IT - Software,NO,NO,NO
+MIRCELECTR.NS,Consumer Durables,NO,NO,NO
+MIRZAINT.NS,Consumer Durables,NO,NO,NO
+MITCON.NS,Commercial Services & Supplies,NO,NO,NO
+MITTAL.NS,Textiles & Apparels,NO,NO,NO
+MKPL.NS,Agricultural Food & other Products,NO,NO,NO
+MMEL.NS,Commercial Services & Supplies,NO,NO,NO
+MMFL.NS,Auto Components,NO,NO,NO
+MMP.NS,Non - Ferrous Metals,NO,NO,NO
+MMTC.NS,Commercial Services & Supplies,NO,NO,NO
+MOBIKWIK.NS,Financial Technology (Fintech),NO,NO,NO
+MOBILISE.NS,IT - Software,NO,NO,NO
+MODINATUR.NS,Agricultural Food & other Products,NO,NO,NO
+MODIRUBBER.NS,Auto Components,NO,NO,NO
+MODIS.NS,Realty,NO,NO,NO
+MODISONLTD.NS,Electrical Equipment,NO,NO,NO
+MODTHREAD.NS,Textiles & Apparels,NO,NO,NO
+MOHITIND.NS,Textiles & Apparels,NO,NO,NO
+MOIL.NS,Minerals & Mining,NO,NO,NO
+MOKSH.NS,Consumer Durables,NO,NO,NO
+MOL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+MOLDTECH.NS,Construction,NO,NO,NO
+MOLDTKPAC.NS,Industrial Products,NO,NO,NO
+MONARCH.NS,Capital Markets,NO,NO,NO
+MONEYBOXX.NS,Finance,NO,NO,NO
+MONOLITH.NS,Industrial Products,NO,NO,NO
+MONOPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MONTECARLO.NS,Textiles & Apparels,NO,NO,NO
+MORARJEE.NS,Textiles & Apparels,NO,NO,NO
+MOREPENLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+MOS.NS,Financial Technology (Fintech),NO,NO,NO
+MOSCHIP.NS,IT - Hardware,NO,NO,NO
+MOTHERSON.NS,Auto Components,NO,NO,NO
+MOTILALOFS.NS,Capital Markets,NO,NO,NO
+MOTISONS.NS,Consumer Durables,NO,NO,NO
+MOTOGENFIN.NS,Commercial Services & Supplies,NO,NO,NO
+MOXSH.NS,Other Consumer Services,NO,NO,NO
+MPEL.NS,Industrial Products,NO,NO,NO
+MPHASIS.NS,IT - Software,NO,NO,NO
+MPSLTD.NS,Other Consumer Services,NO,NO,NO
+MRF.NS,Auto Components,NO,NO,NO
+MRIL.NS,Construction,NO,NO,NO
+MRPL.NS,Petroleum Products,NO,NO,NO
+MSPL.NS,Industrial Products,NO,NO,NO
+MSTCLTD.NS,Commercial Services & Supplies,NO,NO,NO
+MSUMI.NS,Auto Components,NO,NO,NO
+MTARTECH.NS,Aerospace & Defense,NO,NO,NO
+MTEDUCARE.NS,Other Consumer Services,NO,NO,NO
+MTNL.NS,Telecom - Services,NO,NO,NO
+MUFIN.NS,Finance,NO,NO,NO
+MUFTI.NS,Retailing,NO,NO,NO
+MUKANDLTD.NS,Ferrous Metals,NO,NO,NO
+MUKKA.NS,Food Products,NO,NO,NO
+MUKTAARTS.NS,Entertainment,NO,NO,NO
+MUNISH.NS,Industrial Products,NO,NO,NO
+MUNJALAU.NS,Auto Components,NO,NO,NO
+MUNJALSHOW.NS,Auto Components,NO,NO,NO
+MURUDCERA.NS,Consumer Durables,NO,NO,NO
+MUTHOOTCAP.NS,Finance,NO,NO,NO
+MUTHOOTFIN.NS,Finance,NO,NO,NO
+MUTHOOTMF.NS,Finance,NO,NO,NO
+MVGJL.NS,Consumer Durables,NO,NO,NO
+MVKAGRO.NS,Agricultural Food & other Products,NO,NO,NO
+MWL.NS,Metals & Minerals Trading,NO,NO,NO
+MYMUDRA.NS,Finance,NO,NO,NO
+NACLIND.NS,Fertilizers & Agrochemicals,NO,NO,NO
+NAGAFERT.NS,Fertilizers & Agrochemicals,NO,NO,NO
+NAGREEKCAP.NS,Finance,NO,NO,NO
+NAGREEKEXP.NS,Textiles & Apparels,NO,NO,NO
+NAHARCAP.NS,Finance,NO,NO,NO
+NAHARINDUS.NS,Textiles & Apparels,NO,NO,NO
+NAHARPOLY.NS,Industrial Products,NO,NO,NO
+NAHARSPING.NS,Textiles & Apparels,NO,NO,NO
+NAMAN.NS,Consumer Durables,NO,NO,NO
+NAM-INDIA.NS,Capital Markets,NO,NO,NO
+NAMOEWASTE.NS,Other Utilities,NO,NO,NO
+NARMADA.NS,Food Products,NO,NO,NO
+NATCAPSUQ.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+NATCOPHARM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+NATHBIOGEN.NS,Agricultural Food & other Products,NO,NO,NO
+NATIONALUM.NS,Non - Ferrous Metals,NO,NO,NO
+NAUKRI.NS,Retailing,NO,NO,NO
+NAVA.NS,Power,NO,NO,NO
+NAVINFLUOR.NS,Chemicals & Petrochemicals,NO,NO,NO
+NAVKARCORP.NS,Transport Services,NO,NO,NO
+NAVKARURB.NS,Construction,NO,NO,NO
+NAVNETEDUL.NS,Printing & Publication,NO,NO,NO
+NAZARA.NS,Entertainment,NO,NO,NO
+NBCC.NS,Construction,NO,NO,NO
+NBIFIN.NS,Finance,NO,NO,NO
+NCC.NS,Construction,NO,NO,NO
+NCLIND.NS,Cement & Cement Products,NO,NO,NO
+NDGL.NS,Finance,NO,NO,NO
+NDL.NS,Textiles & Apparels,NO,NO,NO
+NDLVENTURE.NS,Finance,NO,NO,NO
+NDRAUTO.NS,Auto Components,NO,NO,NO
+NDRINVIT.NS,Commercial Services & Supplies,NO,NO,NO
+NDTV.NS,Entertainment,NO,NO,NO
+NECCLTD.NS,Transport Services,NO,NO,NO
+NECLIFE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+NEELAM.NS,Textiles & Apparels,NO,NO,NO
+NELCAST.NS,Industrial Products,NO,NO,NO
+NELCO.NS,IT - Hardware,NO,NO,NO
+NEOCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+NEOGEN.NS,Chemicals & Petrochemicals,NO,NO,NO
+NEPHROCARE.NS,Healthcare Services,NO,NO,NO
+NEPHROPLUS.NS,Healthcare Services,NO,NO,NO
+NEPTUNE.NS,Chemicals & Petrochemicals,NO,NO,NO
+NESCO.NS,Commercial Services & Supplies,NO,NO,NO
+NESTLEIND.NS,Food Products,NO,NO,NO
+NETWEB.NS,IT - Services,NO,NO,NO
+NETWORK18.NS,Entertainment,NO,NO,NO
+NEUEON.NS,Electrical Equipment,NO,NO,NO
+NEULANDLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+NEWGEN.NS,IT - Software,NO,NO,NO
+NEWJAISA.NS,IT - Hardware,NO,NO,NO
+NEXTMEDIA.NS,Entertainment,NO,NO,NO
+NFL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+NGIL.NS,Food Products,NO,NO,NO
+NGLFINE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+NH.NS,Healthcare Services,NO,NO,NO
+NHIT.NS,Transport Infrastructure,NO,NO,NO
+NHPC.NS,Power,NO,NO,NO
+NIACL.NS,Insurance,NO,NO,NO
+NIBE.NS,Aerospace & Defense,NO,NO,NO
+NIBL.NS,Industrial Products,NO,NO,NO
+NIDAN.NS,Healthcare Services,NO,NO,NO
+NIITLTD.NS,Other Consumer Services,NO,NO,NO
+NIITMTS.NS,Other Consumer Services,NO,NO,NO
+NIKITA.NS,"Paper, Forest & Jute Products",NO,NO,NO
+NILAINFRA.NS,Realty,NO,NO,NO
+NILASPACES.NS,Realty,NO,NO,NO
+NILKAMAL.NS,Consumer Durables,NO,NO,NO
+NIMBSPROJ.NS,Realty,NO,NO,NO
+NINSYS.NS,IT - Software,NO,NO,NO
+NIPPOBATRY.NS,Household Products,NO,NO,NO
+NIRAJ.NS,Construction,NO,NO,NO
+NIRAJISPAT.NS,Consumer Durables,NO,NO,NO
+NIRMAN.NS,Agricultural Food & other Products,NO,NO,NO
+NITCO.NS,Consumer Durables,NO,NO,NO
+NITINSPIN.NS,Textiles & Apparels,NO,NO,NO
+NITIRAJ.NS,Consumer Durables,NO,NO,NO
+NIVABUPA.NS,Insurance,NO,NO,NO
+NKIND.NS,Agricultural Food & other Products,NO,NO,NO
+NLCINDIA.NS,Power,NO,NO,NO
+NMDC.NS,Minerals & Mining,NO,NO,NO
+NMSTEEL.NS,Industrial Products,NO,NO,NO
+NOCIL.NS,Chemicals & Petrochemicals,NO,NO,NO
+NOIDATOLL.NS,Transport Infrastructure,NO,NO,NO
+NORBTEAEXP.NS,Agricultural Food & other Products,NO,NO,NO
+NORTHARC.NS,Finance,NO,NO,NO
+NOVAAGRI.NS,Fertilizers & Agrochemicals,NO,NO,NO
+NOVARTIND.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+NPST.NS,IT - Services,NO,NO,NO
+NRAIL.NS,"Paper, Forest & Jute Products",NO,NO,NO
+NRBBEARING.NS,Auto Components,NO,NO,NO
+NRL.NS,Metals & Minerals Trading,NO,NO,NO
+NRVANDANA.NS,Textiles & Apparels,NO,NO,NO
+NSIL.NS,Finance,NO,NO,NO
+NSLNISP.NS,Ferrous Metals,NO,NO,NO
+NTPC.NS,Power,NO,NO,NO
+NTPCGREEN.NS,Power,NO,NO,NO
+NUCLEUS.NS,IT - Software,NO,NO,NO
+NURECA.NS,Healthcare Equipment & Supplies,NO,NO,NO
+NUVAMA.NS,Capital Markets,NO,NO,NO
+NUVOCO.NS,Cement & Cement Products,NO,NO,NO
+NXST.NS,Realty,NO,NO,NO
+NYKAA.NS,Retailing,NO,NO,NO
+OAL.NS,Chemicals & Petrochemicals,NO,NO,NO
+OBCL.NS,Transport Services,NO,NO,NO
+OBEROIRLTY.NS,Realty,NO,NO,NO
+OBSCP.NS,Auto Components,NO,NO,NO
+OCCLLTD.NS,Chemicals & Petrochemicals,NO,NO,NO
+ODIGMA.NS,IT - Services,NO,NO,NO
+OFSS.NS,IT - Software,NO,NO,NO
+OIL.NS,Oil,NO,NO,NO
+OILCOUNTUB.NS,Oil,NO,NO,NO
+OLAELEC.NS,Automobiles,NO,NO,NO
+OLECTRA.NS,Automobiles,NO,NO,NO
+OLIL.NS,Transport Services,NO,NO,NO
+OMAXAUTO.NS,Auto Components,NO,NO,NO
+OMAXE.NS,Realty,NO,NO,NO
+OMFREIGHT.NS,Transport Services,NO,NO,NO
+OMFURN.NS,Consumer Durables,NO,NO,NO
+OMINFRAL.NS,Construction,NO,NO,NO
+OMKARCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+OMNI.NS,Industrial Manufacturing,NO,NO,NO
+ONDOOR.NS,Retailing,NO,NO,NO
+ONELIFECAP.NS,Capital Markets,NO,NO,NO
+ONEPOINT.NS,Commercial Services & Supplies,NO,NO,NO
+ONESOURCE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ONGC.NS,Oil,NO,NO,NO
+ONMOBILE.NS,Media,NO,NO,NO
+ONWARDTEC.NS,IT - Services,NO,NO,NO
+ONYX.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+OPTIEMUS.NS,Telecom - Equipment & Accessories,NO,NO,NO
+OPTIVALUE.NS,IT - Services,NO,NO,NO
+ORBTEXP.NS,Textiles & Apparels,NO,NO,NO
+ORCHASP.NS,IT - Software,NO,NO,NO
+ORCHPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ORIANA.NS,Electrical Equipment,NO,NO,NO
+ORICONENT.NS,Industrial Products,NO,NO,NO
+ORIENTALTL.NS,Consumer Durables,NO,NO,NO
+ORIENTBELL.NS,Consumer Durables,NO,NO,NO
+ORIENTCEM.NS,Cement & Cement Products,NO,NO,NO
+ORIENTCER.NS,Industrial Products,NO,NO,NO
+ORIENTELEC.NS,Consumer Durables,NO,NO,NO
+ORIENTHOT.NS,Leisure Services,NO,NO,NO
+ORIENTLTD.NS,Industrial Products,NO,NO,NO
+ORIENTPPR.NS,"Paper, Forest & Jute Products",NO,NO,NO
+ORIENTTECH.NS,IT - Services,NO,NO,NO
+ORISSAMINE.NS,Minerals & Mining,NO,NO,NO
+ORKLAINDIA.NS,Food Products,NO,NO,NO
+ORTEL.NS,Entertainment,NO,NO,NO
+ORTINGLOBE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+OSELDEVICE.NS,Healthcare Equipment & Supplies,NO,NO,NO
+OSIAHYPER.NS,Retailing,NO,NO,NO
+OSWALAGRO.NS,Commercial Services & Supplies,NO,NO,NO
+OSWALGREEN.NS,Finance,NO,NO,NO
+OSWALPUMPS.NS,Industrial Products,NO,NO,NO
+OSWALSEEDS.NS,Agricultural Food & other Products,NO,NO,NO
+OWAIS.NS,Ferrous Metals,NO,NO,NO
+PACEDIGITK.NS,Telecom - Services,NO,NO,NO
+PADMALAYAT.NS,Entertainment,NO,NO,NO
+PAGEIND.NS,Textiles & Apparels,NO,NO,NO
+PAISALO.NS,Finance,NO,NO,NO
+PAKKA.NS,"Paper, Forest & Jute Products",NO,NO,NO
+PALASHSECU.NS,Food Products,NO,NO,NO
+PALREDTEC.NS,IT - Services,NO,NO,NO
+PANACEABIO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+PANACHE.NS,IT - Services,NO,NO,NO
+PANAMAPET.NS,Petroleum Products,NO,NO,NO
+PANSARI.NS,Realty,NO,NO,NO
+PAR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+PARACABLES.NS,Industrial Products,NO,NO,NO
+PARADEEP.NS,Fertilizers & Agrochemicals,NO,NO,NO
+PARAGMILK.NS,Food Products,NO,NO,NO
+PARAGON.NS,Chemicals & Petrochemicals,NO,NO,NO
+PARAMATRIX.NS,IT - Software,NO,NO,NO
+PARAMOUNT.NS,Textiles & Apparels,NO,NO,NO
+PARAMPARA.NS,Industrial Products,NO,NO,NO
+PARAS.NS,Aerospace & Defense,NO,NO,NO
+PARASPETRO.NS,Finance,NO,NO,NO
+PARIN.NS,Consumer Durables,NO,NO,NO
+PARKHOSPS.NS,Healthcare Services,NO,NO,NO
+PARKHOTELS.NS,Leisure Services,NO,NO,NO
+PARSVNATH.NS,Realty,NO,NO,NO
+PARTH.NS,Electrical Equipment,NO,NO,NO
+PARTYCRUS.NS,Other Consumer Services,NO,NO,NO
+PASHUPATI.NS,Textiles & Apparels,NO,NO,NO
+PASUPTAC.NS,Chemicals & Petrochemicals,NO,NO,NO
+PATANJALI.NS,Agricultural Food & other Products,NO,NO,NO
+PATELENG.NS,Construction,NO,NO,NO
+PATELRMART.NS,Retailing,NO,NO,NO
+PATILAUTOM.NS,Industrial Manufacturing,NO,NO,NO
+PATINTLOG.NS,Transport Services,NO,NO,NO
+PATTECH.NS,Industrial Products,NO,NO,NO
+PAUSHAKLTD.NS,Chemicals & Petrochemicals,NO,NO,NO
+PAVNAIND.NS,Auto Components,NO,NO,NO
+PAYTM.NS,Financial Technology (Fintech),NO,NO,NO
+PCBL.NS,Chemicals & Petrochemicals,NO,NO,NO
+PCCL.NS,Minerals & Mining,NO,NO,NO
+PCJEWELLER.NS,Consumer Durables,NO,NO,NO
+PDMJEPAPER.NS,"Paper, Forest & Jute Products",NO,NO,NO
+PDSL.NS,Textiles & Apparels,NO,NO,NO
+PEARLPOLY.NS,Consumer Durables,NO,NO,NO
+PELATRO.NS,Media,NO,NO,NO
+PENIND.NS,Industrial Manufacturing,NO,NO,NO
+PENINLAND.NS,Realty,NO,NO,NO
+PENTAGON.NS,Industrial Products,NO,NO,NO
+PERFECT.NS,Electrical Equipment,NO,NO,NO
+PERSISTENT.NS,IT - Software,NO,NO,NO
+PETRONET.NS,Gas,NO,NO,NO
+PFC.NS,Finance,NO,NO,NO
+PFIZER.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+PFOCUS.NS,Entertainment,NO,NO,NO
+PFS.NS,Finance,NO,NO,NO
+PGEL.NS,Consumer Durables,NO,NO,NO
+PGHH.NS,Personal Products,NO,NO,NO
+PGHL.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+PGIL.NS,Textiles & Apparels,NO,NO,NO
+PGINVIT.NS,Power,NO,NO,NO
+PHANTOMFX.NS,Entertainment,NO,NO,NO
+PHOENIXLTD.NS,Realty,NO,NO,NO
+PHOGLOBAL.NS,Commercial Services & Supplies,NO,NO,NO
+PICCADIL.NS,Beverages,NO,NO,NO
+PIDILITIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+PIGL.NS,Electrical Equipment,NO,NO,NO
+PIIND.NS,Fertilizers & Agrochemicals,NO,NO,NO
+PILANIINVS.NS,Finance,NO,NO,NO
+PILITA.NS,Consumer Durables,NO,NO,NO
+PINELABS.NS,Financial Technology (Fintech),NO,NO,NO
+PIONEEREMB.NS,Textiles & Apparels,NO,NO,NO
+PIRAMALFIN.NS,Finance,NO,NO,NO
+PITTIENG.NS,Industrial Manufacturing,NO,NO,NO
+PIXTRANS.NS,Industrial Products,NO,NO,NO
+PKTEA.NS,Agricultural Food & other Products,NO,NO,NO
+PLADAINFO.NS,Commercial Services & Supplies,NO,NO,NO
+PLASTIBLEN.NS,Chemicals & Petrochemicals,NO,NO,NO
+PLATIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+PLAZACABLE.NS,Industrial Products,NO,NO,NO
+PNB.NS,Banks,NO,NO,NO
+PNBGILTS.NS,Finance,NO,NO,NO
+PNBHOUSING.NS,Finance,NO,NO,NO
+PNC.NS,Entertainment,NO,NO,NO
+PNCINFRA.NS,Construction,NO,NO,NO
+PNGJL.NS,Consumer Durables,NO,NO,NO
+PNGSREVA.NS,Consumer Durables,NO,NO,NO
+POCL.NS,Diversified Metals,NO,NO,NO
+PODDARMENT.NS,Chemicals & Petrochemicals,NO,NO,NO
+POKARNA.NS,Consumer Durables,NO,NO,NO
+POLICYBZR.NS,Financial Technology (Fintech),NO,NO,NO
+POLYCAB.NS,Industrial Products,NO,NO,NO
+POLYMED.NS,Healthcare Equipment & Supplies,NO,NO,NO
+POLYPLEX.NS,Industrial Products,NO,NO,NO
+POLYSIL.NS,Industrial Products,NO,NO,NO
+PONNIERODE.NS,Agricultural Food & other Products,NO,NO,NO
+POONAWALLA.NS,Finance,NO,NO,NO
+POSITRON.NS,Commercial Services & Supplies,NO,NO,NO
+POWERGRID.NS,Power,NO,NO,NO
+POWERICA.NS,Electrical Equipment,NO,NO,NO
+POWERINDIA.NS,Electrical Equipment,NO,NO,NO
+POWERMECH.NS,Construction,NO,NO,NO
+PPAP.NS,Auto Components,NO,NO,NO
+PPL.NS,Industrial Products,NO,NO,NO
+PPLPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+PPSL.NS,Entertainment,NO,NO,NO
+PRABHA.NS,Oil,NO,NO,NO
+PRAENG.NS,Realty,NO,NO,NO
+PRAJIND.NS,Industrial Manufacturing,NO,NO,NO
+PRAKASH.NS,Ferrous Metals,NO,NO,NO
+PRAKASHSTL.NS,Industrial Products,NO,NO,NO
+PRAMARA.NS,Media,NO,NO,NO
+PRANIK.NS,Transport Services,NO,NO,NO
+PRATHAM.NS,Construction,NO,NO,NO
+PRAXIS.NS,Retailing,NO,NO,NO
+PRECAM.NS,Auto Components,NO,NO,NO
+PRECISION.NS,Auto Components,NO,NO,NO
+PRECOT.NS,Textiles & Apparels,NO,NO,NO
+PRECWIRE.NS,Industrial Products,NO,NO,NO
+PREMEXPLN.NS,Chemicals & Petrochemicals,NO,NO,NO
+PREMIER.NS,Industrial Manufacturing,NO,NO,NO
+PREMIERENE.NS,Electrical Equipment,NO,NO,NO
+PREMIERPOL.NS,Industrial Products,NO,NO,NO
+PREMIUM.NS,Auto Components,NO,NO,NO
+PRESSTONIC.NS,Industrial Manufacturing,NO,NO,NO
+PRESTIGE.NS,Realty,NO,NO,NO
+PRICOLLTD.NS,Auto Components,NO,NO,NO
+PRIMECAB.NS,Industrial Products,NO,NO,NO
+PRIMESECU.NS,Finance,NO,NO,NO
+PRIMO.NS,Chemicals & Petrochemicals,NO,NO,NO
+PRINCEPIPE.NS,Industrial Products,NO,NO,NO
+PRITI.NS,Consumer Durables,NO,NO,NO
+PRITIKA.NS,Auto Components,NO,NO,NO
+PRITIKAUTO.NS,Auto Components,NO,NO,NO
+PRIVISCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+PRIZOR.NS,Industrial Manufacturing,NO,NO,NO
+PRLIND.NS,Transport Services,NO,NO,NO
+PROFX.NS,Consumer Durables,NO,NO,NO
+PROLIFE.NS,Chemicals & Petrochemicals,NO,NO,NO
+PROPEQUITY.NS,Realty,NO,NO,NO
+PROSTARM.NS,Electrical Equipment,NO,NO,NO
+PROTEAN.NS,IT - Services,NO,NO,NO
+PROV.NS,Food Products,NO,NO,NO
+PROZONER.NS,Realty,NO,NO,NO
+PRSMJOHNSN.NS,Cement & Cement Products,NO,NO,NO
+PRUDENT.NS,Capital Markets,NO,NO,NO
+PRUDMOULI.NS,Agricultural Food & other Products,NO,NO,NO
+PSB.NS,Banks,NO,NO,NO
+PSFL.NS,Industrial Products,NO,NO,NO
+PSPPROJECT.NS,Construction,NO,NO,NO
+PSRAJ.NS,Industrial Products,NO,NO,NO
+PTC.NS,Power,NO,NO,NO
+PTCIL.NS,Industrial Products,NO,NO,NO
+PTL.NS,Commercial Services & Supplies,NO,NO,NO
+PULZ.NS,Consumer Durables,NO,NO,NO
+PUNJABCHEM.NS,Fertilizers & Agrochemicals,NO,NO,NO
+PURPLEUTED.NS,Textiles & Apparels,NO,NO,NO
+PURVA.NS,Realty,NO,NO,NO
+PURVFLEXI.NS,Industrial Products,NO,NO,NO
+PUSHPA.NS,Consumer Durables,NO,NO,NO
+PVP.NS,Realty,NO,NO,NO
+PVRINOX.NS,Entertainment,NO,NO,NO
+PVSL.NS,Automobiles,NO,NO,NO
+PWL.NS,Other Consumer Services,NO,NO,NO
+PYRAMID.NS,Industrial Products,NO,NO,NO
+QFIL.NS,Industrial Products,NO,NO,NO
+QMSMEDI.NS,Healthcare Equipment & Supplies,NO,NO,NO
+QPOWER.NS,Electrical Equipment,NO,NO,NO
+QUADFUTURE.NS,Industrial Products,NO,NO,NO
+QUADPRO.NS,IT - Services,NO,NO,NO
+QUESS.NS,Commercial Services & Supplies,NO,NO,NO
+QUESTLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+QUICKHEAL.NS,IT - Software,NO,NO,NO
+QUICKTOUCH.NS,IT - Software,NO,NO,NO
+QUINTEGRA.NS,IT - Software,NO,NO,NO
+QVCEL.NS,Ferrous Metals,NO,NO,NO
+RACE.NS,Other Utilities,NO,NO,NO
+RACLGEAR.NS,Auto Components,NO,NO,NO
+RADAAN.NS,Entertainment,NO,NO,NO
+RADHIKAJWE.NS,Consumer Durables,NO,NO,NO
+RADIANTCMS.NS,Commercial Services & Supplies,NO,NO,NO
+RADICO.NS,Beverages,NO,NO,NO
+RADIOCITY.NS,Entertainment,NO,NO,NO
+RADIOWALLA.NS,Entertainment,NO,NO,NO
+RAILTEL.NS,Telecom - Services,NO,NO,NO
+RAIN.NS,Chemicals & Petrochemicals,NO,NO,NO
+RAINBOW.NS,Healthcare Services,NO,NO,NO
+RAJASPETRO.NS,Textiles & Apparels,NO,NO,NO
+RAJESHEXPO.NS,Consumer Durables,NO,NO,NO
+RAJINDLTD.NS,Industrial Products,NO,NO,NO
+RAJMET.NS,Industrial Products,NO,NO,NO
+RAJOOENG.NS,Industrial Manufacturing,NO,NO,NO
+RAJPUTANA.NS,Chemicals & Petrochemicals,NO,NO,NO
+RAJRATAN.NS,Auto Components,NO,NO,NO
+RAJRILTD.NS,Textiles & Apparels,NO,NO,NO
+RAJSREESUG.NS,Agricultural Food & other Products,NO,NO,NO
+RAJTV.NS,Entertainment,NO,NO,NO
+RAJVIR.NS,Textiles & Apparels,NO,NO,NO
+RALLIS.NS,Fertilizers & Agrochemicals,NO,NO,NO
+RAMANEWS.NS,"Paper, Forest & Jute Products",NO,NO,NO
+RAMAPHO.NS,Fertilizers & Agrochemicals,NO,NO,NO
+RAMASTEEL.NS,Industrial Products,NO,NO,NO
+RAMCOCEM.NS,Cement & Cement Products,NO,NO,NO
+RAMCOIND.NS,Other Construction Materials,NO,NO,NO
+RAMCOSYS.NS,IT - Software,NO,NO,NO
+RAMGOPOLY.NS,Commercial Services & Supplies,NO,NO,NO
+RAMKY.NS,Construction,NO,NO,NO
+RAMRAT.NS,Electrical Equipment,NO,NO,NO
+RANASUG.NS,Agricultural Food & other Products,NO,NO,NO
+RANEHOLDIN.NS,Finance,NO,NO,NO
+RAPIDFLEET.NS,Transport Services,NO,NO,NO
+RAPPID.NS,Industrial Products,NO,NO,NO
+RATEGAIN.NS,IT - Software,NO,NO,NO
+RATNAMANI.NS,Industrial Products,NO,NO,NO
+RATNAVEER.NS,Industrial Products,NO,NO,NO
+RAYMOND.NS,Realty,NO,NO,NO
+RAYMONDLSL.NS,Textiles & Apparels,NO,NO,NO
+RAYMONDREL.NS,Realty,NO,NO,NO
+RBA.NS,Leisure Services,NO,NO,NO
+RBLBANK.NS,Banks,NO,NO,NO
+RBMINFRA.NS,Commercial Services & Supplies,NO,NO,NO
+RBS.NS,Agricultural Food & other Products,NO,NO,NO
+RBZJEWEL.NS,Consumer Durables,NO,NO,NO
+RCDL.NS,Agricultural Food & other Products,NO,NO,NO
+RCF.NS,Fertilizers & Agrochemicals,NO,NO,NO
+RCOM.NS,Telecom - Services,NO,NO,NO
+READYMIX.NS,Construction,NO,NO,NO
+RECLTD.NS,Finance,NO,NO,NO
+REDINGTON.NS,Commercial Services & Supplies,NO,NO,NO
+REDTAPE.NS,Consumer Durables,NO,NO,NO
+REFEX.NS,Chemicals & Petrochemicals,NO,NO,NO
+REFRACTORY.NS,Industrial Products,NO,NO,NO
+REGAAL.NS,Agricultural Food & other Products,NO,NO,NO
+REGENCERAM.NS,Consumer Durables,NO,NO,NO
+RELAXO.NS,Consumer Durables,NO,NO,NO
+RELCHEMQ.NS,Textiles & Apparels,NO,NO,NO
+RELIABLE.NS,Finance,NO,NO,NO
+RELIANCE.NS,Petroleum Products,NO,NO,NO
+RELIGARE.NS,Finance,NO,NO,NO
+RELINFRA.NS,Power,NO,NO,NO
+RELTD.NS,Electrical Equipment,NO,NO,NO
+REMSONSIND.NS,Auto Components,NO,NO,NO
+REMUS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+RENUKA.NS,Agricultural Food & other Products,NO,NO,NO
+REPCOHOME.NS,Finance,NO,NO,NO
+REPL.NS,Construction,NO,NO,NO
+REPRO.NS,Printing & Publication,NO,NO,NO
+RESPONIND.NS,Consumer Durables,NO,NO,NO
+RETAIL.NS,Retailing,NO,NO,NO
+REXPIPES.NS,Industrial Products,NO,NO,NO
+REXPRO.NS,Consumer Durables,NO,NO,NO
+RGL.NS,Consumer Durables,NO,NO,NO
+RHETAN.NS,Industrial Products,NO,NO,NO
+RHFL.NS,Finance,NO,NO,NO
+RHIM.NS,Industrial Products,NO,NO,NO
+RHL.NS,Leisure Services,NO,NO,NO
+RICHA.NS,IT - Hardware,NO,NO,NO
+RICOAUTO.NS,Auto Components,NO,NO,NO
+RIIL.NS,Transport Services,NO,NO,NO
+RIIT.NS,Transport Infrastructure,NO,NO,NO
+RILINFRA.NS,Construction,NO,NO,NO
+RISHABH.NS,Electrical Equipment,NO,NO,NO
+RITCO.NS,Transport Services,NO,NO,NO
+RITES.NS,Construction,NO,NO,NO
+RITEZONE.NS,Chemicals & Petrochemicals,NO,NO,NO
+RKDL.NS,Beverages,NO,NO,NO
+RKEC.NS,Construction,NO,NO,NO
+RKFORGE.NS,Auto Components,NO,NO,NO
+RKSWAMY.NS,Media,NO,NO,NO
+RMC.NS,Electrical Equipment,NO,NO,NO
+RMDRIP.NS,Industrial Products,NO,NO,NO
+RML.NS,Auto Components,NO,NO,NO
+RNBDENIMS.NS,Textiles & Apparels,NO,NO,NO
+RNFI.NS,Finance,NO,NO,NO
+RNPL.NS,Chemicals & Petrochemicals,NO,NO,NO
+ROADSTAR.NS,Transport Infrastructure,NO,NO,NO
+ROCKINGDCE.NS,Commercial Services & Supplies,NO,NO,NO
+ROHLTD.NS,Leisure Services,NO,NO,NO
+ROLEXRINGS.NS,Auto Components,NO,NO,NO
+ROLLT.NS,Industrial Products,NO,NO,NO
+ROML.NS,Agricultural Food & other Products,NO,NO,NO
+ROSSARI.NS,Chemicals & Petrochemicals,NO,NO,NO
+ROSSELLIND.NS,Agricultural Food & other Products,NO,NO,NO
+ROSSTECH.NS,Aerospace & Defense,NO,NO,NO
+ROTO.NS,Industrial Products,NO,NO,NO
+ROUTE.NS,Telecom - Services,NO,NO,NO
+ROXHITECH.NS,IT - Services,NO,NO,NO
+ROYALARC.NS,Industrial Products,NO,NO,NO
+RPEL.NS,Industrial Products,NO,NO,NO
+RPGLIFE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+RPOWER.NS,Power,NO,NO,NO
+RPPINFRA.NS,Construction,NO,NO,NO
+RPPL.NS,Industrial Products,NO,NO,NO
+RPSGVENT.NS,Commercial Services & Supplies,NO,NO,NO
+RPTECH.NS,IT - Hardware,NO,NO,NO
+RRKABEL.NS,Industrial Products,NO,NO,NO
+RSL.NS,Industrial Products,NO,NO,NO
+RSSOFTWARE.NS,IT - Software,NO,NO,NO
+RSWM.NS,Textiles & Apparels,NO,NO,NO
+RSYSTEMS.NS,IT - Services,NO,NO,NO
+RTL.NS,Telecom - Services,NO,NO,NO
+RTNINDIA.NS,Retailing,NO,NO,NO
+RTNPOWER.NS,Power,NO,NO,NO
+RUBFILA.NS,Industrial Products,NO,NO,NO
+RUBICON.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+RUBYMILLS.NS,Textiles & Apparels,NO,NO,NO
+RUCHINFRA.NS,Commercial Services & Supplies,NO,NO,NO
+RUCHIRA.NS,"Paper, Forest & Jute Products",NO,NO,NO
+RUDRA.NS,Industrial Products,NO,NO,NO
+RULKA.NS,Construction,NO,NO,NO
+RUPA.NS,Textiles & Apparels,NO,NO,NO
+RUSHIL.NS,Consumer Durables,NO,NO,NO
+RUSTOMJEE.NS,Realty,NO,NO,NO
+RVHL.NS,Realty,NO,NO,NO
+RVNL.NS,Construction,NO,NO,NO
+RVTH.NS,Industrial Manufacturing,NO,NO,NO
+S&SPOWER.NS,Electrical Equipment,NO,NO,NO
+SAAKSHI.NS,Electrical Equipment,NO,NO,NO
+SAATVIKGL.NS,Electrical Equipment,NO,NO,NO
+SABAR.NS,Industrial Products,NO,NO,NO
+SABEVENTS.NS,Media,NO,NO,NO
+SACHEEROME.NS,Chemicals & Petrochemicals,NO,NO,NO
+SADBHAV.NS,Construction,NO,NO,NO
+SADBHIN.NS,Construction,NO,NO,NO
+SADHAV.NS,Transport Services,NO,NO,NO
+SADHNANIQ.NS,Chemicals & Petrochemicals,NO,NO,NO
+SAFARI.NS,Consumer Durables,NO,NO,NO
+SAFEENTP.NS,Consumer Durables,NO,NO,NO
+SAGARDEEP.NS,Industrial Products,NO,NO,NO
+SAGCEM.NS,Cement & Cement Products,NO,NO,NO
+SAGILITY.NS,IT - Services,NO,NO,NO
+SAHAJ.NS,Textiles & Apparels,NO,NO,NO
+SAHAJSOLAR.NS,Electrical Equipment,NO,NO,NO
+SAHANA.NS,IT - Services,NO,NO,NO
+SAHASRA.NS,Industrial Products,NO,NO,NO
+SAHLIBHFI.NS,Finance,NO,NO,NO
+SAHYADRI.NS,Other Construction Materials,NO,NO,NO
+SAIFL.NS,Agricultural Food & other Products,NO,NO,NO
+SAIL.NS,Ferrous Metals,NO,NO,NO
+SAILIFE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SAIPARENT.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SAJHOTELS.NS,Leisure Services,NO,NO,NO
+SAKAR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SAKHTISUG.NS,Agricultural Food & other Products,NO,NO,NO
+SAKSOFT.NS,IT - Software,NO,NO,NO
+SAKUMA.NS,Commercial Services & Supplies,NO,NO,NO
+SALASAR.NS,Industrial Manufacturing,NO,NO,NO
+SALONA.NS,Textiles & Apparels,NO,NO,NO
+SALSTEEL.NS,Ferrous Metals,NO,NO,NO
+SALZERELEC.NS,Electrical Equipment,NO,NO,NO
+SAMAY.NS,Construction,NO,NO,NO
+SAMBHAAV.NS,Media,NO,NO,NO
+SAMBHV.NS,Industrial Products,NO,NO,NO
+SAMHI.NS,Leisure Services,NO,NO,NO
+SAMMAANCAP.NS,Finance,NO,NO,NO
+SAMPANN.NS,Industrial Products,NO,NO,NO
+SANATHAN.NS,Textiles & Apparels,NO,NO,NO
+SANCO.NS,Industrial Products,NO,NO,NO
+SANDESH.NS,Media,NO,NO,NO
+SANDHAR.NS,Auto Components,NO,NO,NO
+SANDUMA.NS,Consumable Fuels,NO,NO,NO
+SANGAMIND.NS,Textiles & Apparels,NO,NO,NO
+SANGANI.NS,Healthcare Services,NO,NO,NO
+SANGHIIND.NS,Cement & Cement Products,NO,NO,NO
+SANGHVIMOV.NS,Commercial Services & Supplies,NO,NO,NO
+SANGINITA.NS,Chemicals & Petrochemicals,NO,NO,NO
+SANOFI.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SANOFICONR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SANSERA.NS,Auto Components,NO,NO,NO
+SANSTAR.NS,Agricultural Food & other Products,NO,NO,NO
+SANWARIA.NS,Food Products,NO,NO,NO
+SAPPHIRE.NS,Leisure Services,NO,NO,NO
+SARDAEN.NS,Ferrous Metals,NO,NO,NO
+SAREGAMA.NS,Entertainment,NO,NO,NO
+SARLAPOLY.NS,Textiles & Apparels,NO,NO,NO
+SAROJA.NS,Chemicals & Petrochemicals,NO,NO,NO
+SARTELE.NS,Telecom - Services,NO,NO,NO
+SARVESHWAR.NS,Agricultural Food & other Products,NO,NO,NO
+SASKEN.NS,IT - Services,NO,NO,NO
+SASTASUNDR.NS,Healthcare Services,NO,NO,NO
+SATECH.NS,IT - Software,NO,NO,NO
+SATIA.NS,"Paper, Forest & Jute Products",NO,NO,NO
+SATIN.NS,Finance,NO,NO,NO
+SATIPOLY.NS,Industrial Products,NO,NO,NO
+SATKARTAR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SATTVAENGG.NS,Other Utilities,NO,NO,NO
+SAURASHCEM.NS,Cement & Cement Products,NO,NO,NO
+SAVY.NS,Construction,NO,NO,NO
+SAWALIYA.NS,Agricultural Food & other Products,NO,NO,NO
+SBC.NS,Textiles & Apparels,NO,NO,NO
+SBCL.NS,Industrial Products,NO,NO,NO
+SBFC.NS,Finance,NO,NO,NO
+SBGLP.NS,Realty,NO,NO,NO
+SBICARD.NS,Finance,NO,NO,NO
+SBILIFE.NS,Insurance,NO,NO,NO
+SBIN.NS,Banks,NO,NO,NO
+SCHAEFFLER.NS,Auto Components,NO,NO,NO
+SCHAND.NS,Printing & Publication,NO,NO,NO
+SCHNEIDER.NS,Electrical Equipment,NO,NO,NO
+SCI.NS,Transport Services,NO,NO,NO
+SCILAL.NS,Finance,NO,NO,NO
+SCML.NS,Industrial Products,NO,NO,NO
+SCODATUBES.NS,Industrial Products,NO,NO,NO
+SCPL.NS,Food Products,NO,NO,NO
+SDBL.NS,Beverages,NO,NO,NO
+SDREAMS.NS,Textiles & Apparels,NO,NO,NO
+SEAMECLTD.NS,Transport Services,NO,NO,NO
+SECL.NS,Construction,NO,NO,NO
+SECMARK.NS,IT - Software,NO,NO,NO
+SECURKLOUD.NS,IT - Services,NO,NO,NO
+SEDEMAC.NS,Auto Components,NO,NO,NO
+SEITINVIT.NS,Power,NO,NO,NO
+SEJALLTD.NS,Industrial Products,NO,NO,NO
+SEL.NS,Electrical Equipment,NO,NO,NO
+SELLOWRAP.NS,Auto Components,NO,NO,NO
+SELMC.NS,Textiles & Apparels,NO,NO,NO
+SEMAC.NS,Construction,NO,NO,NO
+SENCO.NS,Consumer Durables,NO,NO,NO
+SENORES.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SEPC.NS,Construction,NO,NO,NO
+SERVICE.NS,Commercial Services & Supplies,NO,NO,NO
+SERVOTECH.NS,Electrical Equipment,NO,NO,NO
+SESHAPAPER.NS,"Paper, Forest & Jute Products",NO,NO,NO
+SETCO.NS,Auto Components,NO,NO,NO
+SETL.NS,Industrial Manufacturing,NO,NO,NO
+SETUINFRA.NS,Construction,NO,NO,NO
+SEYAIND.NS,Chemicals & Petrochemicals,NO,NO,NO
+SFL.NS,Consumer Durables,NO,NO,NO
+SFML.NS,Commercial Services & Supplies,NO,NO,NO
+SGFIN.NS,Finance,NO,NO,NO
+SGIL.NS,Industrial Products,NO,NO,NO
+SGL.NS,Textiles & Apparels,NO,NO,NO
+SGMART.NS,Metals & Minerals Trading,NO,NO,NO
+SHADOWFAX.NS,Transport Services,NO,NO,NO
+SHAH.NS,Industrial Products,NO,NO,NO
+SHAHALLOYS.NS,Industrial Products,NO,NO,NO
+SHAILY.NS,Industrial Products,NO,NO,NO
+SHAIVAL.NS,Commercial Services & Supplies,NO,NO,NO
+SHAKTIPUMP.NS,Industrial Products,NO,NO,NO
+SHALBY.NS,Healthcare Services,NO,NO,NO
+SHALPAINTS.NS,Consumer Durables,NO,NO,NO
+SHANKARA.NS,Retailing,NO,NO,NO
+SHANTHALA.NS,Cigarettes & Tobacco Products,NO,NO,NO
+SHANTI.NS,Agricultural Food & other Products,NO,NO,NO
+SHANTIGEAR.NS,Industrial Manufacturing,NO,NO,NO
+SHANTIGOLD.NS,Consumer Durables,NO,NO,NO
+SHARDACROP.NS,Fertilizers & Agrochemicals,NO,NO,NO
+SHARDAMOTR.NS,Auto Components,NO,NO,NO
+SHAREINDIA.NS,Capital Markets,NO,NO,NO
+SHEEL.NS,Commercial Services & Supplies,NO,NO,NO
+SHEETAL.NS,Agricultural Food & other Products,NO,NO,NO
+SHEKHAWATI.NS,Textiles & Apparels,NO,NO,NO
+SHEMAROO.NS,Entertainment,NO,NO,NO
+SHERA.NS,Industrial Products,NO,NO,NO
+SHETHJI.NS,Agricultural Food & other Products,NO,NO,NO
+SHIGAN.NS,Auto Components,NO,NO,NO
+SHILCTECH.NS,Electrical Equipment,NO,NO,NO
+SHILPAMED.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SHIVALIK.NS,Fertilizers & Agrochemicals,NO,NO,NO
+SHIVAMAUTO.NS,Auto Components,NO,NO,NO
+SHIVAMILLS.NS,Textiles & Apparels,NO,NO,NO
+SHIVASHRIT.NS,Food Products,NO,NO,NO
+SHIVATEX.NS,Textiles & Apparels,NO,NO,NO
+SHIVAUM.NS,Commercial Services & Supplies,NO,NO,NO
+SHK.NS,Chemicals & Petrochemicals,NO,NO,NO
+SHKSIL.NS,Ferrous Metals,NO,NO,NO
+SHOPERSTOP.NS,Retailing,NO,NO,NO
+SHRADHA.NS,Realty,NO,NO,NO
+SHREDIGCEM.NS,Cement & Cement Products,NO,NO,NO
+SHREECEM.NS,Cement & Cement Products,NO,NO,NO
+SHREEJISPG.NS,Transport Services,NO,NO,NO
+SHREEKARNI.NS,Textiles & Apparels,NO,NO,NO
+SHREEOSFM.NS,Transport Services,NO,NO,NO
+SHREEPUSHK.NS,Chemicals & Petrochemicals,NO,NO,NO
+SHREERAMA.NS,Industrial Products,NO,NO,NO
+SHREMINVIT.NS,Construction,NO,NO,NO
+SHRENIK.NS,"Paper, Forest & Jute Products",NO,NO,NO
+SHREYANIND.NS,"Paper, Forest & Jute Products",NO,NO,NO
+SHRIAHIMSA.NS,Food Products,NO,NO,NO
+SHRIKANHA.NS,Industrial Products,NO,NO,NO
+SHRINGARMS.NS,Consumer Durables,NO,NO,NO
+SHRIPISTON.NS,Auto Components,NO,NO,NO
+SHRIRAMFIN.NS,Finance,NO,NO,NO
+SHRIRAMPPS.NS,Realty,NO,NO,NO
+SHRITECH.NS,Industrial Products,NO,NO,NO
+SHUBHLAXMI.NS,Consumer Durables,NO,NO,NO
+SHUBHSHREE.NS,Industrial Products,NO,NO,NO
+SHYAMCENT.NS,Ferrous Metals,NO,NO,NO
+SHYAMDHANI.NS,Food Products,NO,NO,NO
+SHYAMMETL.NS,Industrial Products,NO,NO,NO
+SHYAMTEL.NS,Commercial Services & Supplies,NO,NO,NO
+SICALLOG.NS,Transport Services,NO,NO,NO
+SIDDHICOTS.NS,Textiles & Apparels,NO,NO,NO
+SIDDHIKA.NS,Consumer Durables,NO,NO,NO
+SIEMENS.NS,Electrical Equipment,NO,NO,NO
+SIGACHI.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SIGIND.NS,Commercial Services & Supplies,NO,NO,NO
+SIGMA.NS,IT - Services,NO,NO,NO
+SIGMAADV.NS,Aerospace & Defense,NO,NO,NO
+SIGNATURE.NS,Realty,NO,NO,NO
+SIGNORIA.NS,Textiles & Apparels,NO,NO,NO
+SIGNPOST.NS,Media,NO,NO,NO
+SIKKO.NS,Fertilizers & Agrochemicals,NO,NO,NO
+SIL.NS,Realty,NO,NO,NO
+SILGO.NS,Consumer Durables,NO,NO,NO
+SILINV.NS,Finance,NO,NO,NO
+SILKFLEX.NS,Chemicals & Petrochemicals,NO,NO,NO
+SILKY.NS,Textiles & Apparels,NO,NO,NO
+SILLYMONKS.NS,Entertainment,NO,NO,NO
+SILVERTUC.NS,IT - Software,NO,NO,NO
+SIMBHALS.NS,Agricultural Food & other Products,NO,NO,NO
+SIMPLEXINF.NS,Construction,NO,NO,NO
+SINCLAIR.NS,Leisure Services,NO,NO,NO
+SINDHUTRAD.NS,Transport Services,NO,NO,NO
+SINGERIND.NS,Consumer Durables,NO,NO,NO
+SINTERCOM.NS,Auto Components,NO,NO,NO
+SIRCA.NS,Consumer Durables,NO,NO,NO
+SIS.NS,Other Consumer Services,NO,NO,NO
+SITINET.NS,Entertainment,NO,NO,NO
+SIYSIL.NS,Textiles & Apparels,NO,NO,NO
+SJLOGISTIC.NS,Transport Services,NO,NO,NO
+SJS.NS,Auto Components,NO,NO,NO
+SJVN.NS,Power,NO,NO,NO
+SKFINDIA.NS,Industrial Products,NO,NO,NO
+SKFINDUS.NS,Industrial Products,NO,NO,NO
+SKIL.NS,Construction,NO,NO,NO
+SKIPPER.NS,Electrical Equipment,NO,NO,NO
+SKMEGGPROD.NS,Food Products,NO,NO,NO
+SKP.NS,Industrial Products,NO,NO,NO
+SKYGOLD.NS,Consumer Durables,NO,NO,NO
+SLONE.NS,IT - Hardware,NO,NO,NO
+SMARTEN.NS,Electrical Equipment,NO,NO,NO
+SMARTLINK.NS,IT - Hardware,NO,NO,NO
+SMARTWORKS.NS,Commercial Services & Supplies,NO,NO,NO
+SMCGLOBAL.NS,Capital Markets,NO,NO,NO
+SMLMAH.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+SMLT.NS,Industrial Products,NO,NO,NO
+SMSPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SMVD.NS,Industrial Products,NO,NO,NO
+SNEHAA.NS,Chemicals & Petrochemicals,NO,NO,NO
+SNOWMAN.NS,Transport Services,NO,NO,NO
+SOBHA.NS,Realty,NO,NO,NO
+SOCL.NS,Petroleum Products,NO,NO,NO
+SOFTTECH.NS,IT - Software,NO,NO,NO
+SOLARA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SOLARINDS.NS,Chemicals & Petrochemicals,NO,NO,NO
+SOLARWORLD.NS,Construction,NO,NO,NO
+SOLEX.NS,Electrical Equipment,NO,NO,NO
+SOMANYCERA.NS,Consumer Durables,NO,NO,NO
+SOMATEX.NS,Textiles & Apparels,NO,NO,NO
+SOMICONVEY.NS,Industrial Manufacturing,NO,NO,NO
+SONACOMS.NS,Auto Components,NO,NO,NO
+SONAMAC.NS,Industrial Manufacturing,NO,NO,NO
+SONAMLTD.NS,Consumer Durables,NO,NO,NO
+SONATSOFTW.NS,IT - Software,NO,NO,NO
+SONUINFRA.NS,Construction,NO,NO,NO
+SOTAC.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SOTL.NS,Petroleum Products,NO,NO,NO
+SOUTHBANK.NS,Banks,NO,NO,NO
+SOUTHWEST.NS,Commercial Services & Supplies,NO,NO,NO
+SPAL.NS,Textiles & Apparels,NO,NO,NO
+SPANDANA.NS,Finance,NO,NO,NO
+SPARC.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SPCENET.NS,Commercial Services & Supplies,NO,NO,NO
+SPCL.NS,Electrical Equipment,NO,NO,NO
+SPCON.NS,Construction,NO,NO,NO
+SPEB.NS,Chemicals & Petrochemicals,NO,NO,NO
+SPECIALITY.NS,Leisure Services,NO,NO,NO
+SPECTRUM.NS,Industrial Manufacturing,NO,NO,NO
+SPECTSTM.NS,Commercial Services & Supplies,NO,NO,NO
+SPENCERS.NS,Retailing,NO,NO,NO
+SPIC.NS,Fertilizers & Agrochemicals,NO,NO,NO
+SPICEJET.NS,Transport Services,NO,NO,NO
+SPLIL.NS,Textiles & Apparels,NO,NO,NO
+SPLPETRO.NS,Chemicals & Petrochemicals,NO,NO,NO
+SPMLINFRA.NS,Construction,NO,NO,NO
+SPORTKING.NS,Textiles & Apparels,NO,NO,NO
+SPPPOLY.NS,Industrial Products,NO,NO,NO
+SPRL.NS,Industrial Products,NO,NO,NO
+SPUNWEB.NS,Textiles & Apparels,NO,NO,NO
+SRD.NS,Chemicals & Petrochemicals,NO,NO,NO
+SREEL.NS,Consumer Durables,NO,NO,NO
+SRF.NS,Chemicals & Petrochemicals,NO,NO,NO
+SRGHFL.NS,Finance,NO,NO,NO
+SRHHYPOLTD.NS,Chemicals & Petrochemicals,NO,NO,NO
+SRIVASAVI.NS,Industrial Products,NO,NO,NO
+SRM.NS,Construction,NO,NO,NO
+SRPL.NS,Agricultural Food & other Products,NO,NO,NO
+SRTL.NS,Textiles & Apparels,NO,NO,NO
+SSDL.NS,Textiles & Apparels,NO,NO,NO
+SSEGL.NS,Construction,NO,NO,NO
+SSFL.NS,Food Products,NO,NO,NO
+SSWL.NS,Auto Components,NO,NO,NO
+STALLION.NS,Chemicals & Petrochemicals,NO,NO,NO
+STANLEY.NS,Consumer Durables,NO,NO,NO
+STAR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+STARCEMENT.NS,Cement & Cement Products,NO,NO,NO
+STARHEALTH.NS,Insurance,NO,NO,NO
+STARPAPER.NS,"Paper, Forest & Jute Products",NO,NO,NO
+STARTECK.NS,Finance,NO,NO,NO
+STCINDIA.NS,Commercial Services & Supplies,NO,NO,NO
+STEELCAS.NS,Industrial Products,NO,NO,NO
+STEELCITY.NS,Capital Markets,NO,NO,NO
+STEELXIND.NS,Industrial Products,NO,NO,NO
+STEL.NS,Finance,NO,NO,NO
+STERTOOLS.NS,Auto Components,NO,NO,NO
+STLNETWORK.NS,Telecom - Services,NO,NO,NO
+STLTECH.NS,Telecom - Equipment & Accessories,NO,NO,NO
+STOVEKRAFT.NS,Consumer Durables,NO,NO,NO
+STRIDERS.NS,Consumer Durables,NO,NO,NO
+STUDDS.NS,Auto Components,NO,NO,NO
+STUDIOLSD.NS,Entertainment,NO,NO,NO
+STYL.NS,Financial Technology (Fintech),NO,NO,NO
+STYLAMIND.NS,Consumer Durables,NO,NO,NO
+STYLEBAAZA.NS,Retailing,NO,NO,NO
+STYRENIX.NS,Chemicals & Petrochemicals,NO,NO,NO
+SUBAHOTELS.NS,Leisure Services,NO,NO,NO
+SUBEXLTD.NS,IT - Software,NO,NO,NO
+SUBROS.NS,Industrial Products,NO,NO,NO
+SUDARCOLOR.NS,Chemicals & Petrochemicals,NO,NO,NO
+SUDARSCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+SUDEEPPHRM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SUKHJITS.NS,Agricultural Food & other Products,NO,NO,NO
+SULA.NS,Beverages,NO,NO,NO
+SUMEETINDS.NS,Textiles & Apparels,NO,NO,NO
+SUMICHEM.NS,Fertilizers & Agrochemicals,NO,NO,NO
+SUMIT.NS,Realty,NO,NO,NO
+SUMMITSEC.NS,Finance,NO,NO,NO
+SUNCLAY.NS,Auto Components,NO,NO,NO
+SUNDARAM.NS,Household Products,NO,NO,NO
+SUNDARMFIN.NS,Finance,NO,NO,NO
+SUNDRMBRAK.NS,Auto Components,NO,NO,NO
+SUNDRMFAST.NS,Auto Components,NO,NO,NO
+SUNDROP.NS,Agricultural Food & other Products,NO,NO,NO
+SUNFLAG.NS,Industrial Products,NO,NO,NO
+SUNLITE.NS,Industrial Products,NO,NO,NO
+SUNPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SUNREST.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SUNTECH.NS,Construction,NO,NO,NO
+SUNTECK.NS,Realty,NO,NO,NO
+SUNTV.NS,Entertainment,NO,NO,NO
+SUPERHOUSE.NS,Consumer Durables,NO,NO,NO
+SUPERSPIN.NS,Textiles & Apparels,NO,NO,NO
+SUPRAJIT.NS,Auto Components,NO,NO,NO
+SUPREME.NS,Realty,NO,NO,NO
+SUPREMEENG.NS,Industrial Products,NO,NO,NO
+SUPREMEIND.NS,Industrial Products,NO,NO,NO
+SUPREMEINF.NS,Construction,NO,NO,NO
+SUPREMEPWR.NS,Electrical Equipment,NO,NO,NO
+SUPRIYA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SURAJEST.NS,Realty,NO,NO,NO
+SURAJLTD.NS,Industrial Products,NO,NO,NO
+SURAKSHA.NS,Healthcare Services,NO,NO,NO
+SURANASOL.NS,Electrical Equipment,NO,NO,NO
+SURANAT&P.NS,Power,NO,NO,NO
+SURANI.NS,Industrial Products,NO,NO,NO
+SURYALAXMI.NS,Textiles & Apparels,NO,NO,NO
+SURYAROSNI.NS,Industrial Products,NO,NO,NO
+SURYODAY.NS,Banks,NO,NO,NO
+SUTLEJTEX.NS,Textiles & Apparels,NO,NO,NO
+SUVEN.NS,Healthcare Services,NO,NO,NO
+SUVIDHAA.NS,Financial Technology (Fintech),NO,NO,NO
+SUYOG.NS,Telecom - Services,NO,NO,NO
+SUZLON.NS,Electrical Equipment,NO,NO,NO
+SVLL.NS,Transport Services,NO,NO,NO
+SVPGLOB.NS,Textiles & Apparels,NO,NO,NO
+SWANCORP.NS,Chemicals & Petrochemicals,NO,NO,NO
+SWANDEF.NS,Industrial Manufacturing,NO,NO,NO
+SWARAJ.NS,Textiles & Apparels,NO,NO,NO
+SWARAJENG.NS,Industrial Products,NO,NO,NO
+SWASTIK.NS,Industrial Products,NO,NO,NO
+SWELECTES.NS,Electrical Equipment,NO,NO,NO
+SWIGGY.NS,Retailing,NO,NO,NO
+SWSOLAR.NS,Construction,NO,NO,NO
+SYLVANPLY.NS,Consumer Durables,NO,NO,NO
+SYMPHONY.NS,Consumer Durables,NO,NO,NO
+SYNCOMF.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+SYNGENE.NS,Healthcare Services,NO,NO,NO
+SYNOPTICS.NS,IT - Services,NO,NO,NO
+SYRMA.NS,Industrial Manufacturing,NO,NO,NO
+SYSTANGO.NS,IT - Software,NO,NO,NO
+SYSTMTXC.NS,Capital Markets,NO,NO,NO
+TAC.NS,IT - Software,NO,NO,NO
+TAINWALCHM.NS,Industrial Products,NO,NO,NO
+TAJGVK.NS,Leisure Services,NO,NO,NO
+TAKE.NS,Healthcare Services,NO,NO,NO
+TALBROAUTO.NS,Auto Components,NO,NO,NO
+TANKUP.NS,Industrial Products,NO,NO,NO
+TANLA.NS,IT - Software,NO,NO,NO
+TAPIFRUIT.NS,Food Products,NO,NO,NO
+TARACHAND.NS,Commercial Services & Supplies,NO,NO,NO
+TARAPUR.NS,Electrical Equipment,NO,NO,NO
+TARC.NS,Realty,NO,NO,NO
+TARIL.NS,Electrical Equipment,NO,NO,NO
+TARMAT.NS,Construction,NO,NO,NO
+TARSONS.NS,Healthcare Equipment & Supplies,NO,NO,NO
+TASTYBITE.NS,Food Products,NO,NO,NO
+TATACAP.NS,Finance,NO,NO,NO
+TATACHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+TATACOMM.NS,Telecom - Services,NO,NO,NO
+TATACONSUM.NS,Agricultural Food & other Products,NO,NO,NO
+TATAELXSI.NS,IT - Software,NO,NO,NO
+TATAINVEST.NS,Finance,NO,NO,NO
+TATAPOWER.NS,Power,NO,NO,NO
+TATASTEEL.NS,Ferrous Metals,NO,NO,NO
+TATATECH.NS,IT - Services,NO,NO,NO
+TATVA.NS,Chemicals & Petrochemicals,NO,NO,NO
+TAURIAN.NS,Industrial Manufacturing,NO,NO,NO
+TBI.NS,Agricultural Food & other Products,NO,NO,NO
+TBOTEK.NS,Leisure Services,NO,NO,NO
+TBZ.NS,Consumer Durables,NO,NO,NO
+TCC.NS,Retailing,NO,NO,NO
+TCI.NS,Transport Services,NO,NO,NO
+TCIEXP.NS,Transport Services,NO,NO,NO
+TCIFINANCE.NS,Finance,NO,NO,NO
+TCL.NS,Auto Components,NO,NO,NO
+TCPLPACK.NS,Industrial Products,NO,NO,NO
+TCS.NS,IT - Software,NO,NO,NO
+TDPOWERSYS.NS,Electrical Equipment,NO,NO,NO
+TEAMGTY.NS,Finance,NO,NO,NO
+TEAMLEASE.NS,Commercial Services & Supplies,NO,NO,NO
+TECHD.NS,IT - Services,NO,NO,NO
+TECHERA.NS,Aerospace & Defense,NO,NO,NO
+TECHLABS.NS,IT - Software,NO,NO,NO
+TECHM.NS,IT - Software,NO,NO,NO
+TECHNOE.NS,Construction,NO,NO,NO
+TECILCHEM.NS,Chemicals & Petrochemicals,NO,NO,NO
+TEGA.NS,Industrial Manufacturing,NO,NO,NO
+TEJASCARGO.NS,Transport Services,NO,NO,NO
+TEJASNET.NS,Telecom - Equipment & Accessories,NO,NO,NO
+TEMBO.NS,Industrial Products,NO,NO,NO
+TENNIND.NS,Auto Components,NO,NO,NO
+TERASOFT.NS,IT - Services,NO,NO,NO
+TEXINFRA.NS,Commercial Services & Supplies,NO,NO,NO
+TEXMOPIPES.NS,Industrial Products,NO,NO,NO
+TEXRAIL.NS,Industrial Manufacturing,NO,NO,NO
+TFCILTD.NS,Finance,NO,NO,NO
+TFL.NS,Finance,NO,NO,NO
+TGBHOTELS.NS,Leisure Services,NO,NO,NO
+TGL.NS,Construction,NO,NO,NO
+THANGAMAYL.NS,Consumer Durables,NO,NO,NO
+THEINVEST.NS,Finance,NO,NO,NO
+THEJO.NS,Industrial Manufacturing,NO,NO,NO
+THELEELA.NS,Leisure Services,NO,NO,NO
+THEMISMED.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+THERMAX.NS,Electrical Equipment,NO,NO,NO
+THESL.NS,Other Consumer Services,NO,NO,NO
+THOMASCOOK.NS,Leisure Services,NO,NO,NO
+THOMASCOTT.NS,Textiles & Apparels,NO,NO,NO
+THYROCARE.NS,Healthcare Services,NO,NO,NO
+TI.NS,Beverages,NO,NO,NO
+TICL.NS,Construction,NO,NO,NO
+TIGERLOGS.NS,Transport Services,NO,NO,NO
+TIIL.NS,Industrial Products,NO,NO,NO
+TIINDIA.NS,Auto Components,NO,NO,NO
+TIJARIA.NS,Industrial Products,NO,NO,NO
+TIL.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+TIMESCAN.NS,Transport Services,NO,NO,NO
+TIMETECHNO.NS,Industrial Products,NO,NO,NO
+TIMKEN.NS,Industrial Products,NO,NO,NO
+TINNARUBR.NS,Industrial Products,NO,NO,NO
+TIPSFILMS.NS,Entertainment,NO,NO,NO
+TIPSMUSIC.NS,Entertainment,NO,NO,NO
+TIRUMALCHM.NS,Chemicals & Petrochemicals,NO,NO,NO
+TIRUPATI.NS,Industrial Products,NO,NO,NO
+TIRUPATIFL.NS,Industrial Products,NO,NO,NO
+TITAGARH.NS,Industrial Manufacturing,NO,NO,NO
+TITAN.NS,Consumer Durables,NO,NO,NO
+TMB.NS,Banks,NO,NO,NO
+TMCV.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+TMPV.NS,Automobiles,NO,NO,NO
+TNPETRO.NS,Chemicals & Petrochemicals,NO,NO,NO
+TNPL.NS,"Paper, Forest & Jute Products",NO,NO,NO
+TNTELE.NS,Telecom - Equipment & Accessories,NO,NO,NO
+TOKYOPLAST.NS,Consumer Durables,NO,NO,NO
+TOLINS.NS,Auto Components,NO,NO,NO
+TORNTPHARM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+TORNTPOWER.NS,Power,NO,NO,NO
+TOTAL.NS,Transport Services,NO,NO,NO
+TOUCHWOOD.NS,Other Consumer Services,NO,NO,NO
+TPHQ.NS,Construction,NO,NO,NO
+TPLPLASTEH.NS,Industrial Products,NO,NO,NO
+TRACXN.NS,Commercial Services & Supplies,NO,NO,NO
+TRANSRAILL.NS,Electrical Equipment,NO,NO,NO
+TRANSTEEL.NS,Consumer Durables,NO,NO,NO
+TRANSWIND.NS,Commercial Services & Supplies,NO,NO,NO
+TRANSWORLD.NS,Transport Services,NO,NO,NO
+TRAVELFOOD.NS,Leisure Services,NO,NO,NO
+TREEHOUSE.NS,Other Consumer Services,NO,NO,NO
+TREJHARA.NS,IT - Software,NO,NO,NO
+TREL.NS,Transport Services,NO,NO,NO
+TRENT.NS,Retailing,NO,NO,NO
+TRF.NS,Industrial Manufacturing,NO,NO,NO
+TRIDENT.NS,Textiles & Apparels,NO,NO,NO
+TRIDHYA.NS,Commercial Services & Supplies,NO,NO,NO
+TRIGYN.NS,IT - Software,NO,NO,NO
+TRITURBINE.NS,Electrical Equipment,NO,NO,NO
+TRIVENI.NS,Agricultural Food & other Products,NO,NO,NO
+TROM.NS,Electrical Equipment,NO,NO,NO
+TRU.NS,Finance,NO,NO,NO
+TRUALT.NS,Agricultural Food & other Products,NO,NO,NO
+TRUST.NS,IT - Software,NO,NO,NO
+TSC.NS,Leisure Services,NO,NO,NO
+TSFINV.NS,Finance,NO,NO,NO
+TTKHLTCARE.NS,Diversified,NO,NO,NO
+TTKPRESTIG.NS,Consumer Durables,NO,NO,NO
+TTL.NS,Textiles & Apparels,NO,NO,NO
+TTML.NS,Telecom - Services,NO,NO,NO
+TUNWAL.NS,Automobiles,NO,NO,NO
+TVSELECT.NS,IT - Hardware,NO,NO,NO
+TVSHLTD.NS,Finance,NO,NO,NO
+TVSINVIT.NS,Commercial Services & Supplies,NO,NO,NO
+TVSMOTOR.NS,Automobiles,NO,NO,NO
+TVSSCS.NS,Transport Services,NO,NO,NO
+TVSSRICHAK.NS,Auto Components,NO,NO,NO
+TVTODAY.NS,Entertainment,NO,NO,NO
+TVVISION.NS,Entertainment,NO,NO,NO
+UBL.NS,Beverages,NO,NO,NO
+UCAL.NS,Auto Components,NO,NO,NO
+UCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+UCOBANK.NS,Banks,NO,NO,NO
+UDS.NS,Commercial Services & Supplies,NO,NO,NO
+UEL.NS,Power,NO,NO,NO
+UFBL.NS,Leisure Services,NO,NO,NO
+UFLEX.NS,Industrial Products,NO,NO,NO
+UFO.NS,Entertainment,NO,NO,NO
+UGARSUGAR.NS,Agricultural Food & other Products,NO,NO,NO
+UGROCAP.NS,Finance,NO,NO,NO
+UHTL.NS,Industrial Products,NO,NO,NO
+UJJIVANSFB.NS,Banks,NO,NO,NO
+ULTRACEMCO.NS,Cement & Cement Products,NO,NO,NO
+UMA.NS,Industrial Products,NO,NO,NO
+UMAEXPORTS.NS,Commercial Services & Supplies,NO,NO,NO
+UMESLTD.NS,Other Consumer Services,NO,NO,NO
+UMIYA-MRO.NS,Telecom - Equipment & Accessories,NO,NO,NO
+UNICHEMLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+UNIDT.NS,Industrial Manufacturing,NO,NO,NO
+UNIECOM.NS,IT - Software,NO,NO,NO
+UNIENTER.NS,Chemicals & Petrochemicals,NO,NO,NO
+UNIHEALTH.NS,Healthcare Services,NO,NO,NO
+UNIINFO.NS,Telecom - Services,NO,NO,NO
+UNILEX.NS,Chemicals & Petrochemicals,NO,NO,NO
+UNIMECH.NS,Aerospace & Defense,NO,NO,NO
+UNIONBANK.NS,Banks,NO,NO,NO
+UNIPARTS.NS,Auto Components,NO,NO,NO
+UNITDSPR.NS,Beverages,NO,NO,NO
+UNITECH.NS,Realty,NO,NO,NO
+UNITEDPOLY.NS,Textiles & Apparels,NO,NO,NO
+UNITEDTEA.NS,Agricultural Food & other Products,NO,NO,NO
+UNIVAFOODS.NS,Leisure Services,NO,NO,NO
+UNIVASTU.NS,Construction,NO,NO,NO
+UNIVCABLES.NS,Industrial Products,NO,NO,NO
+UNIVPHOTO.NS,Consumer Durables,NO,NO,NO
+UNOMINDA.NS,Auto Components,NO,NO,NO
+UPL.NS,Fertilizers & Agrochemicals,NO,NO,NO
+URAVIDEF.NS,Auto Components,NO,NO,NO
+URBAN.NS,Other Utilities,NO,NO,NO
+URBANCO.NS,Retailing,NO,NO,NO
+URJA.NS,Electrical Equipment,NO,NO,NO
+USASEEDS.NS,Agricultural Food & other Products,NO,NO,NO
+USHAFIN.NS,Finance,NO,NO,NO
+USHAMART.NS,Industrial Products,NO,NO,NO
+USK.NS,Construction,NO,NO,NO
+UTIAMC.NS,Capital Markets,NO,NO,NO
+UTKARSHBNK.NS,Banks,NO,NO,NO
+UTLSOLAR.NS,Electrical Equipment,NO,NO,NO
+UTSSAV.NS,Consumer Durables,NO,NO,NO
+UTTAMSUGAR.NS,Agricultural Food & other Products,NO,NO,NO
+UWCSL.NS,Auto Components,NO,NO,NO
+UYFINCORP.NS,Finance,NO,NO,NO
+V2RETAIL.NS,Retailing,NO,NO,NO
+VADILALIND.NS,Food Products,NO,NO,NO
+VAIBHAVGBL.NS,Consumer Durables,NO,NO,NO
+VAISHALI.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VAKRANGEE.NS,IT - Services,NO,NO,NO
+VALIANTLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VALIANTORG.NS,Chemicals & Petrochemicals,NO,NO,NO
+VARDHACRLC.NS,Textiles & Apparels,NO,NO,NO
+VARDMNPOLY.NS,Textiles & Apparels,NO,NO,NO
+VARROC.NS,Auto Components,NO,NO,NO
+VASA.NS,Household Products,NO,NO,NO
+VASCONEQ.NS,Realty,NO,NO,NO
+VASWANI.NS,Ferrous Metals,NO,NO,NO
+VBL.NS,Beverages,NO,NO,NO
+VCL.NS,Textiles & Apparels,NO,NO,NO
+VDEAL.NS,Electrical Equipment,NO,NO,NO
+VEDL.NS,Diversified Metals,NO,NO,NO
+VEEDOL.NS,Petroleum Products,NO,NO,NO
+VEEKAYEM.NS,Textiles & Apparels,NO,NO,NO
+VELS.NS,Entertainment,NO,NO,NO
+VENKEYS.NS,Food Products,NO,NO,NO
+VENTIVE.NS,Leisure Services,NO,NO,NO
+VENUSPIPES.NS,Industrial Products,NO,NO,NO
+VENUSREM.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VERA.NS,Textiles & Apparels,NO,NO,NO
+VERANDA.NS,Other Consumer Services,NO,NO,NO
+VERITAAS.NS,Media,NO,NO,NO
+VERTEXPLUS.NS,IT - Services,NO,NO,NO
+VERTIS.NS,Transport Infrastructure,NO,NO,NO
+VERTOZ.NS,Media,NO,NO,NO
+VESUVIUS.NS,Industrial Products,NO,NO,NO
+VETO.NS,Consumer Durables,NO,NO,NO
+VGINFOTECH.NS,IT - Software,NO,NO,NO
+VGL.NS,Textiles & Apparels,NO,NO,NO
+VGUARD.NS,Consumer Durables,NO,NO,NO
+VHL.NS,Finance,NO,NO,NO
+VHLTD.NS,Leisure Services,NO,NO,NO
+VIAZ.NS,Auto Components,NO,NO,NO
+VICTORYEV.NS,Automobiles,NO,NO,NO
+VIDHIING.NS,Chemicals & Petrochemicals,NO,NO,NO
+VIDYAWIRES.NS,Industrial Products,NO,NO,NO
+VIESL.NS,Commercial Services & Supplies,NO,NO,NO
+VIGOR.NS,Industrial Products,NO,NO,NO
+VIJAYA.NS,Healthcare Services,NO,NO,NO
+VIJAYPD.NS,Electrical Equipment,NO,NO,NO
+VIJIFIN.NS,Finance,NO,NO,NO
+VIKASECO.NS,Chemicals & Petrochemicals,NO,NO,NO
+VIKASLIFE.NS,Commercial Services & Supplies,NO,NO,NO
+VIKASPROP.NS,Agricultural Food & other Products,NO,NO,NO
+VIKASWSP.NS,Agricultural Food & other Products,NO,NO,NO
+VIKRAMSOLR.NS,Electrical Equipment,NO,NO,NO
+VIKRAN.NS,Construction,NO,NO,NO
+VILAS.NS,Industrial Products,NO,NO,NO
+VILINBIO.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VIMTALABS.NS,Healthcare Services,NO,NO,NO
+VINATIORGA.NS,Chemicals & Petrochemicals,NO,NO,NO
+VINCOFE.NS,Commercial Services & Supplies,NO,NO,NO
+VINDHYATEL.NS,Telecom - Services,NO,NO,NO
+VINEETLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VINNY.NS,Textiles & Apparels,NO,NO,NO
+VINSYS.NS,Other Consumer Services,NO,NO,NO
+VINYAS.NS,Industrial Manufacturing,NO,NO,NO
+VINYLINDIA.NS,Chemicals & Petrochemicals,NO,NO,NO
+VIPCLOTHNG.NS,Textiles & Apparels,NO,NO,NO
+VIPIND.NS,Consumer Durables,NO,NO,NO
+VIPULLTD.NS,Realty,NO,NO,NO
+VIRINCHI.NS,IT - Software,NO,NO,NO
+VISAKAIND.NS,Cement & Cement Products,NO,NO,NO
+VISAMAN.NS,Industrial Products,NO,NO,NO
+VISASTEEL.NS,Ferrous Metals,NO,NO,NO
+VISHAL.NS,Textiles & Apparels,NO,NO,NO
+VISHNU.NS,Chemicals & Petrochemicals,NO,NO,NO
+VISHNUINFR.NS,Other Construction Materials,NO,NO,NO
+VISHWARAJ.NS,Agricultural Food & other Products,NO,NO,NO
+VISHWAS.NS,Agricultural Food & other Products,NO,NO,NO
+VITAL.NS,Chemicals & Petrochemicals,NO,NO,NO
+VIVIANA.NS,Construction,NO,NO,NO
+VIVIDEL.NS,Electrical Equipment,NO,NO,NO
+VIVIDHA.NS,Textiles & Apparels,NO,NO,NO
+VIVIMEDLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VIVO.NS,Telecom - Services,NO,NO,NO
+VIYASH.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+VLEGOV.NS,IT - Services,NO,NO,NO
+VLINFRA.NS,Construction,NO,NO,NO
+VLSFINANCE.NS,Finance,NO,NO,NO
+VMARCIND.NS,Industrial Products,NO,NO,NO
+VMART.NS,Retailing,NO,NO,NO
+VMM.NS,Retailing,NO,NO,NO
+VMSTMT.NS,Industrial Products,NO,NO,NO
+VOLERCAR.NS,Transport Services,NO,NO,NO
+VOLTAMP.NS,Electrical Equipment,NO,NO,NO
+VOLTAS.NS,Consumer Durables,NO,NO,NO
+VPRPL.NS,Construction,NO,NO,NO
+VR.NS,Realty,NO,NO,NO
+VRAJ.NS,Ferrous Metals,NO,NO,NO
+VRLLOG.NS,Transport Services,NO,NO,NO
+VSCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+VSSL.NS,Industrial Products,NO,NO,NO
+VSTIND.NS,Cigarettes & Tobacco Products,NO,NO,NO
+VSTL.NS,Industrial Products,NO,NO,NO
+VSTTILLERS.NS,"Agricultural, Commercial & Construction Vehicles",NO,NO,NO
+VTL.NS,Textiles & Apparels,NO,NO,NO
+WAAREEENER.NS,Electrical Equipment,NO,NO,NO
+WAAREEINDO.NS,Electrical Equipment,NO,NO,NO
+WAAREERTL.NS,Electrical Equipment,NO,NO,NO
+WABAG.NS,Other Utilities,NO,NO,NO
+WAKEFIT.NS,Consumer Durables,NO,NO,NO
+WALCHANNAG.NS,Industrial Manufacturing,NO,NO,NO
+WALPAR.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+WANBURY.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+WATERBASE.NS,Food Products,NO,NO,NO
+WCIL.NS,Transport Services,NO,NO,NO
+WEALTH.NS,Finance,NO,NO,NO
+WEBELSOLAR.NS,Electrical Equipment,NO,NO,NO
+WEIZMANIND.NS,Textiles & Apparels,NO,NO,NO
+WEL.NS,Consumer Durables,NO,NO,NO
+WELCORP.NS,Industrial Products,NO,NO,NO
+WELENT.NS,Construction,NO,NO,NO
+WELINV.NS,Finance,NO,NO,NO
+WELSPUNLIV.NS,Textiles & Apparels,NO,NO,NO
+WENDT.NS,Industrial Products,NO,NO,NO
+WESTLIFE.NS,Leisure Services,NO,NO,NO
+WEWIN.NS,Commercial Services & Supplies,NO,NO,NO
+WEWORK.NS,Commercial Services & Supplies,NO,NO,NO
+WHEELS.NS,Auto Components,NO,NO,NO
+WHIRLPOOL.NS,Consumer Durables,NO,NO,NO
+WHITEFORCE.NS,Commercial Services & Supplies,NO,NO,NO
+WILLAMAGOR.NS,Finance,NO,NO,NO
+WINDLAS.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+WINDMACHIN.NS,Industrial Manufacturing,NO,NO,NO
+WINNY.NS,Leisure Services,NO,NO,NO
+WINSOL.NS,Construction,NO,NO,NO
+WINSOME.NS,Textiles & Apparels,NO,NO,NO
+WIPL.NS,Consumer Durables,NO,NO,NO
+WIPRO.NS,IT - Software,NO,NO,NO
+WOCKPHARMA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+WOL3D.NS,Industrial Products,NO,NO,NO
+WOMANCART.NS,Retailing,NO,NO,NO
+WONDERLA.NS,Leisure Services,NO,NO,NO
+WORTHPERI.NS,Industrial Products,NO,NO,NO
+WSI.NS,Construction,NO,NO,NO
+WSTCSTPAPR.NS,"Paper, Forest & Jute Products",NO,NO,NO
+WTICAB.NS,Transport Services,NO,NO,NO
+XCHANGING.NS,IT - Software,NO,NO,NO
+XELPMOC.NS,IT - Software,NO,NO,NO
+XPROINDIA.NS,Industrial Products,NO,NO,NO
+XTGLOBAL.NS,IT - Software,NO,NO,NO
+YAAP.NS,Media,NO,NO,NO
+YASHO.NS,Chemicals & Petrochemicals,NO,NO,NO
+YASHOPTICS.NS,Consumer Durables,NO,NO,NO
+YATHARTH.NS,Healthcare Services,NO,NO,NO
+YATRA.NS,Leisure Services,NO,NO,NO
+YCCL.NS,Chemicals & Petrochemicals,NO,NO,NO
+YESBANK.NS,Banks,NO,NO,NO
+YUDIZ.NS,IT - Software,NO,NO,NO
+YUKEN.NS,Industrial Products,NO,NO,NO
+ZAGGLE.NS,IT - Services,NO,NO,NO
+ZEAL.NS,Transport Services,NO,NO,NO
+ZEEL.NS,Entertainment,NO,NO,NO
+ZEELEARN.NS,Other Consumer Services,NO,NO,NO
+ZEEMEDIA.NS,Entertainment,NO,NO,NO
+ZENITHDRUG.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ZENITHEXPO.NS,Consumer Durables,NO,NO,NO
+ZENITHSTL.NS,Industrial Products,NO,NO,NO
+ZENSARTECH.NS,IT - Software,NO,NO,NO
+ZENTEC.NS,Aerospace & Defense,NO,NO,NO
+ZFCVINDIA.NS,Auto Components,NO,NO,NO
+ZIMLAB.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ZODIAC.NS,Construction,NO,NO,NO
+ZODIACLOTH.NS,Textiles & Apparels,NO,NO,NO
+ZOTA.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ZTECH.NS,Other Utilities,NO,NO,NO
+ZUARI.NS,Fertilizers & Agrochemicals,NO,NO,NO
+ZUARIIND.NS,Agricultural Food & other Products,NO,NO,NO
+ZYDUSLIFE.NS,Pharmaceuticals & Biotechnology,NO,NO,NO
+ZYDUSWELL.NS,Food Products,NO,NO,NO
