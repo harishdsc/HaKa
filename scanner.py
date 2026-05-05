@@ -22,23 +22,22 @@ def check(df):
         return "NO"
 
     latest = df.iloc[-1]
-    prev = df.iloc[-2]
 
     score = 0
 
-    # 1. EMA Trend (important)
+    # EMA Trend
     if latest['EMA10'] > latest['EMA20']:
         score += 1
 
-    # 2. Recent crossover (not strict today)
+    # Recent crossover (relaxed)
     if df['EMA10'].iloc[-3] < df['EMA20'].iloc[-3] and latest['EMA10'] > latest['EMA20']:
         score += 1
 
-    # 3. Volume expansion (relaxed)
+    # Volume
     if latest['Volume'] > 1.2 * latest['VolSMA']:
         score += 1
 
-    # 4. RSI strength
+    # RSI
     if latest['RSI'] > 50:
         score += 1
 
@@ -56,12 +55,23 @@ for _, row in stocks.iterrows():
     try:
         df = yf.download(sym, period="6mo", interval="1d", progress=False)
 
+        if df is None or df.empty:
+            raise Exception("No data")
+
+        df.index = pd.to_datetime(df.index)
+
         df = compute(df)
 
-        # 🔥 SAME DATA USED FOR ALL TF (FAST)
+        # ✅ REAL WEEKLY & MONTHLY
+        w = df.resample('W').last()
+        m = df.resample('M').last()
+
+        w = compute(w)
+        m = compute(m)
+
         daily = check(df)
-        weekly = check(df.tail(60))     # approx weekly behavior
-        monthly = check(df.tail(120))   # approx monthly
+        weekly = check(w)
+        monthly = check(m)
 
         results.append([sym, sec, daily, weekly, monthly])
 
