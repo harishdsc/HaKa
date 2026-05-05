@@ -24,15 +24,25 @@ def check(df):
     latest = df.iloc[-1]
     prev = df.iloc[-2]
 
-    cond1 = prev['EMA10'] < prev['EMA20'] and latest['EMA10'] > latest['EMA20']
-    cond2 = latest['Volume'] > 1.5 * latest['VolSMA']
-    cond3 = latest['RSI'] > 50
-    cond4 = latest['EMA10'] > latest['EMA20']
-    cond5 = latest['Close'] > df['Close'].rolling(20).mean().iloc[-1]
+    score = 0
 
-    score = sum([cond1, cond2, cond3, cond4, cond5])
+    # 1. EMA Trend (important)
+    if latest['EMA10'] > latest['EMA20']:
+        score += 1
 
-    return "YES" if score >= 3 else "NO"
+    # 2. Recent crossover (not strict today)
+    if df['EMA10'].iloc[-3] < df['EMA20'].iloc[-3] and latest['EMA10'] > latest['EMA20']:
+        score += 1
+
+    # 3. Volume expansion (relaxed)
+    if latest['Volume'] > 1.2 * latest['VolSMA']:
+        score += 1
+
+    # 4. RSI strength
+    if latest['RSI'] > 50:
+        score += 1
+
+    return "YES" if score >= 2 else "NO"
 
 
 results = []
